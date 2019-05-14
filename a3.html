@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style>
+
+body {
+  font: 11px sans-serif;
+}
+
+.axis line,
+.axis text {
+  font: 11px sans-serif;
+}
+.axis path {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+</style>
+<body>
+<link href="style.css" rel="stylesheet">
+<script src="http://d3js.org/d3.v4.min.js"></script>
+  <link rel="stylesheet" href="http://code.jquery.com/ui/1.11.1/themes/smoothness/jquery-ui.css">
+  <script src="http://code.jquery.com/jquery-1.10.2.js"></script>
+  <script src="http://code.jquery.com/ui/1.11.1/jquery-ui.js"></script>
+<div id="layout">
+	<div id="title">
+		<p>Stocks Scatterplot </p>
+	</div>
+	<div id="visualization">
+		<svg class="chart"></svg>
+		<script src="tu.js"></script>
+         </div>
+         <div id="filters">
+                  <label for="type">Type:</label>
+                  <input type="text" id="mytype" readonly style="border:0; color:#f6931f; font-weight:bold;">
+                  <select id="textchoice"></select>
+                  
+                  <p>Volume Sold</p>
+                  <div id="volume" class="slider-range"></div>
+                  <label for="volamount">Volume sold range:</label>
+                  <input type="text" id="volamount" readonly style="border:0; color:#f6931f; font-weight:bold;">
+
+                  <p>Delta Prior</p>
+                  <div id="delta" class="slider-range"></div>
+                  <label for="deltaamount">Delta prior range:</label>
+                  <input type="text" id="deltaamount" readonly style="border:0; color:#f6931f; font-weight:bold;">
+
+                  <p>eValue</p>
+                  <div id="eVal" class="slider-range"></div>
+                  <label for="eValamount">Delta prior range:</label>
+                  <input type="text" id="eValamount" readonly style="border:0; color:#f6931f; font-weight:bold;">
+
+	</div>
+
+
+</body>
+</html>
+
