@@ -11,17 +11,17 @@
 
 	</body>
 
-  <script type="text/javascript">
-  d3.queue()
-    .defer(d3.json, 'episodes.json')
-    .await(ready);
-
+	<script type="text/javascript">
 		// loading the data 
-		function ready(error, e) {
-      if (error) throw error;
-
-      var episodesData = e.episodes
-      
+		d3.csv('data.csv', function(error, data) {
+			data.forEach(function(d) {
+				var dates = d.date.split("-");
+				d.year = dates[0]; 
+				d.month = dates[1];
+				d.value = +d.value;
+				return d;
+			})
+			
 			// define the margin 
 			var margin = {top: 25, bottom: 10, left: 25, right: 25},
 			width = 700 - margin.left - margin.right,
