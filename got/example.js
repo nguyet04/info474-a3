@@ -1,24 +1,20 @@
-// Assignment 3
 
 
-let dataset;
-let filteredData;
-
-d3.json("episodes.json", (error, data) => {
-  if (error) return console.warn(error)
-  dataset = data.episodes
-  let episodes = filterBySeason(5, dataset)
-  filteredData = getNumOfScenesPerLocation(episodes)
-  filteredData.sort((a, b) => (a.yValue < b.yValue) ? 1 : -1);
-  filteredData = filteredData.slice(0, 10)
-
+d3.csv("data.csv", function(error, data) {
+  data.forEach(function(d) {
+    var dates = d.date.split("-");
+    d.year = dates[0];
+    d.month = dates[1];
+    d.value = +d.value;
+    return d;
+  });
 
   var margin = { top: 25, bottom: 10, left: 25, right: 25 },
-    width = 1400 - margin.left - margin.right,
+    width = 700 - margin.left - margin.right,
     height = 400 - margin.top - margin.bottom;
 
   var svg = d3
-    .select("main")
+    .select("#example-container")
     .append("svg")
     .attr("width", width + margin.left + margin.right)
     .attr("height", height + margin.top + margin.bottom)
@@ -48,21 +44,51 @@ d3.json("episodes.json", (error, data) => {
     .attr("transform", "translate(" + margin.left + ",0)")
     .attr("class", "y-axis")
     .call(yAxis);
-  update(filteredData);
 
-  function update(data) {
+  // 1. to make it interactive, add each year as an option tag for the dropdown
+  var years = [
+    ...new Set(
+      data.map(function(d) {
+        return d.year;
+      })
+    )
+  ];
+
+  var options = d3
+    .select("#year")
+    .selectAll("option")
+    .data(years)
+    .enter()
+    .append("option")
+    .text(function(d) {
+      return d;
+    });
+
+  // var select = d3.select("#year").on("change", function() {
+  //   update(data, this.value);
+  // });
+
+  // 3. call update function for the first-time render case
+  update(data, d3.select("#year").property("value"));
+
+  // 2. create update function to update domain, re-render axis, bar
+  function update(data, years) {
+    // filter data based on the given years
+    // var data = data.filter(function(d) {
+    //   return d.year == years;
+    // });
 
     console.log(data)
 
     x.domain(
       data.map(function(d) {
-        return d.xValue;
+        return d.month;
       })
     );
     y.domain([
       0,
       d3.max(data, function(d) {
-        return d.yValue;
+        return d.value;
       })
     ]).nice();
 
@@ -81,7 +107,7 @@ d3.json("episodes.json", (error, data) => {
 
     //modify bar elements to accomodate new data, add exit, merge functions
     var bar = svg.selectAll(".bar").data(data, function(d) {
-      return d.xValue;
+      return d.month;
     });
 
     bar.exit().remove();
@@ -96,44 +122,13 @@ d3.json("episodes.json", (error, data) => {
       .transition()
       .duration(1000)
       .attr("x", function(d) {
-        return x(d.xValue);
+        return x(d.month);
       })
       .attr("y", function(d) {
-        return y(d.yValue);
+        return y(d.value);
       })
       .attr("height", function(d) {
-        return y(0) - y(d.yValue);
+        return y(0) - y(d.value);
       });
   }
-
-})
-
-function filterBySeason(season, data) {
-  return data.filter((episode) => episode.seasonNum === season)
-}
-
-function getNumOfScenesPerLocation(episodes) {
-  let locations = {}
-
-  episodes.forEach((episode) => {
-    episode.scenes.forEach((scene) => {
-
-      if (locations[scene.location]) {
-        locations[scene.location]++
-      } else {
-        locations[scene.location] = 1
-      }
-
-    })
-  })
-
-  let result = Object.entries(locations).map((arr) => {
-    return { xValue : arr[0], yValue : arr[1]}
-  })
-
-  return result
-}
-
-function sortEpisodes(episodes) {
- episodes.sort()
-}
+});
