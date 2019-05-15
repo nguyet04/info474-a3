@@ -12,6 +12,19 @@
 	</body>
 
   <script type="text/javascript">
+  // to convert scene start/end times into seconds
+  function sec(timeString){
+    var sec = 0;
+    if (timeString.length == 0) return sec;
+    var splitArray = timeString.split(":");
+    sec = 3600*parseFloat(splitArray[0])+60*parseFloat(splitArray[1])+parseFloat(splitArray[2]);
+    return sec;
+  }
+
+  // to dedpulicate an array
+  function onlyUnique(value, index, self) { 
+    return self.indexOf(value) === index;
+  }
   d3.queue()
     .defer(d3.json, 'episodes.json')
     .await(ready);
@@ -20,13 +33,57 @@
 		function ready(error, e) {
       if (error) throw error;
 
-      var episodesData = e.episodes
+      // prepping the necessary data 
+
+      // put all scenes in one array
+      var scenes = e.episodes.reduce(function(acc, val, ind){
+        var scene = val.scenes.reduce(function(a, v, i){
+          var sceneLength = Math.abs(sec(v.sceneEnd) - sec(v.sceneStart));
+          var s = Object.assign({}, v, {"seasonNum":val.seasonNum, "episodeNum":val.episodeNum, "sceneLength": sceneLength});
+          return a.concat(s);
+        }, []);
+        return [...acc, ...scene];
+      }, []);
+      // put all seasons in an array
+      var seasons = scenes.reduce(function(acc, val, ind){
+        return [...acc, val.seasonNum];
+      }, [])
+        .filter(onlyUnique);
+      // then put that array into an object with 0 count
+      var seasonsObj = seasons.reduce(function(acc, val, ind){
+          var obj = {};
+          obj[val] = 0;
+          return Object.assign(acc, obj);
+        }, {});
+      // put all characters in one array, make object to count character time
+      var characters = scenes.reduce(function(acc, val, ind){
+        var c = val.characters.reduce(function(a, v, i){
+          return a.concat(v.name);
+        }, []);
+        return [...acc, ...c];
+      }, [])
+        .filter(onlyUnique)
+        .map(function(cur, ind){
+          return Object.assign({}, {"name": cur}, seasonsObj);
+        });
+      // go through scenes and add sceneLength values to characters' counts
+      scenes.forEach(function(val, ind){
+        val.characters.forEach(function(v, i){
+          var index = characters.findIndex(function(element){
+            return element.name == v.name;
+          });
+          characters[index][val.seasonNum] += val.sceneLength;
+        })
+      })
+
+      var data = characters
+      console.log(data)
       
 			// define the margin 
 			var margin = {top: 25, bottom: 10, left: 25, right: 25},
 			width = 700 - margin.left - margin.right,
 			height = 400 - margin.top - margin.bottom;
-
+      /*
 			// add the svg template 
 			var svg = d3.select("body").append("svg")
 			    .attr("width", width + margin.left + margin.right)
@@ -113,8 +170,11 @@
 						.attr("x", function(d) { return x(d.month)})
 						.attr("y", function(d) { return y(d.value)})
 						.attr("height", function(d) { return y(0) - y(d.value)})
-					}
-		})
+        
+          }
+          */
+    }
+    
 	</script>
 
 </html>
