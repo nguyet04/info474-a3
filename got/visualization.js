@@ -155,7 +155,7 @@ function update() {
     .enter()
     .append("rect")
     .attr("class", "bar")
-    .attr("fill", "steelblue")
+    .attr("fill", "#B78A0E")
     .merge(bar)
     .transition()
     .duration(1000)
