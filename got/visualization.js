@@ -101,22 +101,91 @@ function update() {
   // get the main dataset
   if (currentX == 'location') {
     dataset = datasets["locations"] 
+    d3.select("#numOfDeaths").text("number of deaths")
   } else {
     dataset = datasets["characters"]
+
     // currentY is different for this character
-    currentY = 'numOfKills'
+    if (currentY === 'numOfDeaths') {
+      currentY = 'numOfKills'
+    }
+    //change text
+    d3.select("#numOfDeaths").text("number of kills")
   }
+
   // filter by the current season if it is not all
-  let filteredData = dataset
+  let filteredData; 
 
   if (currentSeason != "all") {
     filteredData = dataset[parseInt(currentSeason, 10) - 1]
+  } else {
+    allSeasons = [].concat.apply([], dataset);
+    xDict = {};
+    allSeasons.forEach((xValue) => {
+      if (xDict[xValue[currentX]]) {
+        curr = xDict[xValue[currentX]]
+        if (curr.numOfScenes) {
+          curr.numOfScenes += xValue.numOfScenes
+        }
+        if (curr.numOfDeaths) {
+          curr.numOfDeaths += xValue.numOfDeaths
+        }
+        if (curr.screenTime) {
+          curr.screenTime += xValue.screenTime
+        }
+        if (curr.numOfKills) {
+          curr.numOfKills += xValue.numOfKills
+        }
+      } else {
+        xDict[xValue[currentX]] = {}
+        curr = xDict[xValue[currentX]]
+        if (xValue.numOfScenes) {
+          curr.numOfScenes = xValue.numOfScenes
+        } else {
+          curr.numOfScenes = 0
+        }
+        if (xValue.numOfDeaths) {
+          curr.numOfDeaths = xValue.numOfDeaths
+        } else {
+          curr.numOfDeaths = 0
+        }
+        if (xValue.screenTime) {
+          curr.screenTime = xValue.screenTime
+        } else {
+          curr.screenTime = 0
+        }
+        if (xValue.numOfKills) {
+          curr.numOfKills = xValue.numOfKills
+        } else {
+          curr.numOfKills = 0
+        }
+        if (xValue.house) {
+          curr.house = xValue.house
+        }
+      }
+    })
+    filteredData = []
+    for (let key in xDict) {
+      nextObj = {}
+      nextObj[currentX] = key
+      for (let xKey in xDict[key]) {
+        nextObj[xKey] = xDict[key][xKey]
+      }
+      filteredData.push(nextObj)
+    }
+  }
+
+  if (currentX === "house") {
+    data = characterToHouse(filteredData)
+  } else {
+    data = filteredData
   }
   
-  data = filteredData
   // filter by y and then sort it
   data.sort((a, b) => (a[currentY] < b[currentY]) ? 1 : -1);
-  data = data.slice(0, 10)
+  data = data.slice(0, 10).filter((obj) => obj[currentY] > 0)
+
+  console.log(data)
 
   x.domain(
     data.map(function(d) {
@@ -211,4 +280,61 @@ function sortEpisodes(episodes) {
 function hmsToMinutes(hms) {
   var a = hms.split(':'); // split it at the colons
   return (+a[0]) * 60 + (+a[1]);
+}
+
+function characterToHouse(dataset) {
+  houses = {}
+  dataset.forEach((character) => {
+    if (character.house === "null" || !character.house) {
+      return
+    } 
+
+   house = character.house;
+    if (Array.isArray(character["house"])) {
+      house = character.house[0]
+    }
+
+    if (houses[house]) {
+      curr = houses[house]
+      if (character.numOfScenes) {
+        curr.numOfScenes += character.numOfScenes
+      }
+      if (character.screenTime) {
+        curr.screenTime += character.screenTime
+      }
+      if (character.numOfKills) {
+        curr.numOfKills += character.numOfKills
+      }
+    } else {
+      houses[house] = {}
+      curr = houses[house]
+      if (character.numOfScenes) {
+        curr.numOfScenes = character.numOfScenes
+      } else {
+        curr.numOfScenes = 0
+      }
+      if (character.screenTime) {
+        curr.screenTime = character.screenTime
+      } else {
+        curr.screenTime = 0
+      }
+      if (character.numOfKills) {
+        curr.numOfKills = character.numOfKills
+      } else {
+        curr.numOfKills = 0
+      }
+
+    }
+  })
+
+  result = []
+  for (let key in houses) {
+    nextObj = {}
+    nextObj[currentX] = key
+    for (let xKey in houses[key]) {
+      nextObj[xKey] = houses[key][xKey]
+    }
+    result.push(nextObj)
+  }
+  return result 
 }
