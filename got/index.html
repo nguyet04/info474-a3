@@ -6,31 +6,37 @@
   </head>
 
   <body>
-    <div id="example-container">
-      <div>
-        Choose year:
-        <select id="year"></select>
-      </div>
-      <p>
-        Example Container
-      </p>
-    </div>
 
     <main>
 			<span>
-				For season 
-				<select id="season"></select>
+				For
+        <select id="season">
+          <option value="1">season 1</option>
+          <option value="2">season 2</option>
+          <option value="3">season 3</option>
+          <option value="4">season 4</option>
+          <option value="5">season 5</option>
+          <option value="6">season 6</option>
+          <option value="7">season 7</option>
+          <option value="8">season 8</option>
+        </select>
 				,
 				 the most
-				<select id="y-axis"></select>
+				<select id="y-axis">
+            <option value="numOfScenes">number of scenes</option>
+            <option value="numOfDeaths">number of deaths</option>
+            <option value="screenTime">screen time</option>
+        </select>
 				 for 
-				<select id="x-axis"></select>
+				<select id="x-axis">
+            <option value="location">locations</option>
+            <option value="character">characters</option>
+            <option value="house">houses</option>
+        </select>
 			</span>
 
-      <p>Main Container</p>
     </main>
   </body>
 
   <script src="visualization.js"></script>
-  <script src="example.js"></script>
 </html>

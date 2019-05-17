@@ -4,12 +4,12 @@
 let datasets = {}
 let dataset;
 let filteredData;
-let currentSeason = 1;
+let currentSeason = '1';
 let currentX = 'location';
 let currentY = 'numOfScenes';
 
-d3.json("characters.json", (error, characterData) => {
-  d3.json("locations.json", (error, locationData) => {
+d3.json("data/characters.json", (error, characterData) => {
+  d3.json("data/locations.json", (error, locationData) => {
     if (error) return console.warn(error)
     datasets["locations"] = locationData.map((season) => {
       return season.map((episode) => {
@@ -17,23 +17,12 @@ d3.json("characters.json", (error, characterData) => {
         return episode
       })
     });
-    datasets["characters"] = characterData
-
-    // get the main dataset
-    dataset = datasets["locations"] 
-
-    console.log(dataset)
-
-    var seasons = [1, 2, 3, 4, 5, 6, 7, 8]
-    var xArray = ["characters", "locations", "houses"]
-    var yArray = ["numOfScenes", "numOfDeaths", "screenTime"]
-
-    // populate the options text
-    d3.select("#season").selectAll("option")
-      .data(seasons)
-      .enter().append("option")
-      .text(function(d) {return d;})
-      .attr("label", (d) => "season " + d )
+    datasets["characters"] = characterData.map((season) => {
+      return season.map((episode) => {
+        episode["screenTime"] = hmsToMinutes(episode["screenTime"])
+        return episode
+      })
+    });
 
     // add on change effect
     d3.select("#season")
@@ -42,12 +31,6 @@ d3.json("characters.json", (error, characterData) => {
         update()
       })
 
-    // populate the options text
-    d3.select("#y-axis").selectAll("option")
-      .data(yArray)
-      .enter().append("option")
-      .text(function(d) {return d;})
-
     // add on change effect
     d3.select("#y-axis")
       .on("change", function() {
@@ -55,12 +38,6 @@ d3.json("characters.json", (error, characterData) => {
         update()
       })
     
-    // populate the options text
-    d3.select("#x-axis").selectAll("option")
-      .data(xArray)
-      .enter().append("option")
-      .text(function(d) {return d;})
-
     // add on change effect
     d3.select("#x-axis")
       .on("change", function() {
@@ -79,7 +56,6 @@ d3.json("characters.json", (error, characterData) => {
   // redraw once in the beginning
     update()
 
-    console.log(dataset)
   })
 })
 
@@ -122,18 +98,25 @@ svg
 
 // function to redraw the x and y based on new values
 function update() {
-  // filter by the current season 
-  console.log(dataset)
-  // filter by season 
-  let filteredData = dataset[currentSeason - 1]
-  // transform it 
+  // get the main dataset
+  if (currentX == 'location') {
+    dataset = datasets["locations"] 
+  } else {
+    dataset = datasets["characters"]
+    // currentY is different for this character
+    currentY = 'numOfKills'
+  }
+  // filter by the current season if it is not all
+  let filteredData = dataset
+
+  if (currentSeason != "all") {
+    filteredData = dataset[parseInt(currentSeason, 10) - 1]
+  }
   
   data = filteredData
   // filter by y and then sort it
   data.sort((a, b) => (a[currentY] < b[currentY]) ? 1 : -1);
   data = data.slice(0, 10)
-
-  console.log(data)
 
   x.domain(
     data.map(function(d) {
