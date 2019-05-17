@@ -4,17 +4,17 @@
 let dataset;
 let filteredData;
 let currentSeason = 1;
-let currentX;
-let currentY;
+let currentX = 'locations';
+let currentY = 'numOfScenes';
 
-d3.json("episodes.json", (error, data) => {
+d3.json("locations.json", (error, data) => {
   if (error) return console.warn(error)
   // get the main dataset
-  dataset = data.episodes
+  dataset = data
 
   var seasons = [1, 2, 3, 4, 5, 6, 7, 8]
   var xArray = ["characters", "locations", "houses"]
-  var yArray = ["number of scenes", "screen time", "deaths"]
+  var yArray = ["numOfScenes", "numOfDeaths", "screenTime"]
 
   // populate the options text
   d3.select("#season").selectAll("option")
@@ -108,22 +108,25 @@ svg
 // function to redraw the x and y based on new values
 function update() {
   // filter by the current season 
-  let episodes = filterBySeason(currentSeason, dataset)
+  console.log(dataset)
+  // filter by season 
+  let filteredData = dataset[currentSeason - 1]
+  // transform it 
 
+  
   // filter by y and then sort it
-  filteredData = getNumOfScenesPerLocation(episodes)
-  filteredData.sort((a, b) => (a.yValue < b.yValue) ? 1 : -1);
+  filteredData.sort((a, b) => (a[currentY] < b[currentY]) ? 1 : -1);
   data = filteredData.slice(0, 10)
-
+  
   x.domain(
     data.map(function(d) {
-      return d.xValue;
+      return d[currentX];
     })
   );
   y.domain([
     0,
     d3.max(data, function(d) {
-      return d.yValue;
+      return d[currentY];
     })
   ]).nice();
 
@@ -171,10 +174,10 @@ function update() {
 
 
 // take in season and data and filter it
-function filterBySeason(season, data) {
+function filterBySeason(seasonNum, data) {
   // making sure that it is an int to compare
-  season = parseInt(season, 10)
-  return data.filter((episode) => episode.seasonNum === season)
+  seasonNum = parseInt(seasonNum, 10)
+  return data.filter((current) => current.season == seasonNum)
 }
 
 // function to creat an object with x and y values
