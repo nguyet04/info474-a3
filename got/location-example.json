@@ -1,0 +1,16 @@
+[
+  {
+    "location": "Crownlands",
+    "season": 1,
+    "numOfScenes": 2,
+    "numOfDeaths": 1,
+    "screenTime": "00:01:00"
+  },
+  {
+    "location": "location 2",
+    "season": 1,
+    "numOfScenes": 2,
+    "numOfDeaths": 1,
+    "screenTime": "00:01:00"
+  }
+]

@@ -1,0 +1,6594 @@
+[
+  [
+    {
+      "house": null,
+      "season": 1,
+      "numOfScenes": 6,
+      "numOfKills": 0,
+      "screenTime": "0:06:02",
+      "character": "Gared"
+    },
+    {
+      "house": null,
+      "season": 1,
+      "numOfScenes": 5,
+      "numOfKills": 0,
+      "screenTime": "0:05:06",
+      "character": "Waymar Royce"
+    },
+    {
+      "house": null,
+      "season": 1,
+      "numOfScenes": 12,
+      "numOfKills": 0,
+      "screenTime": "0:12:43",
+      "character": "Will"
+    },
+    {
+      "house": null,
+      "season": 1,
+      "numOfScenes": 2,
+      "numOfKills": 0,
+      "screenTime": "0:00:17",
+      "character": "Wight Wildling Girl"
+    },
+    {
+      "house": null,
+      "season": 1,
+      "numOfScenes": 2,
+      "numOfKills": 2,
+      "screenTime": "0:01:19",
+      "character": "White Walker"
+    },
+    {
+      "house": "Stark",
+      "season": 1,
+      "numOfScenes": 44,
+      "numOfKills": 1,
+      "screenTime": "1:28:43",
+      "character": "Jon Snow"
+    },
+    {
+      "house": "Stark",
+      "season": 1,
+      "numOfScenes": 29,
+      "numOfKills": 0,
+      "screenTime": "0:51:55",
+      "character": "Bran Stark"
+    },
+    {
+      "house": "Stark",
+      "season": 1,
+      "numOfScenes": 26,
+      "numOfKills": 1,
+      "screenTime": "0:50:33",
+      "character": "Robb Stark"
+    },
+    {
+      "house": "Stark",
+      "season": 1,
+      "numOfScenes": 70,
+      "numOfKills": 2,
+      "screenTime": "2:22:43",
+      "character": "Eddard Stark"
+    },
+    {
+      "house": ["Stark", "Tully"],
+      "season": 1,
+      "numOfScenes": 41,
+      "numOfKills": 0,
+      "screenTime": "1:22:52",
+      "character": "Catelyn Stark"
+    },
+    {
+      "house": "Stark",
+      "season": 1,
+      "numOfScenes": 4,
+      "numOfKills": 0,
+      "screenTime": "0:12:06",
+      "character": "Rickon Stark"
+    },
+    {
+      "house": "Stark",
+      "season": 1,
+      "numOfScenes": 22,
+      "numOfKills": 0,
+      "screenTime": "1:00:08",
+      "character": "Sansa Stark"
+    },
+    {
+      "house": "Stark",
+      "season": 1,
+      "numOfScenes": 32,
+      "numOfKills": 1,
+      "screenTime": "1:00:55",
+      "character": "Arya Stark"
+    },
+    {
+      "house": "Greyjoy",
+      "season": 1,
+      "numOfScenes": 26,
+      "numOfKills": 1,
+      "screenTime": "0:54:30",
+      "character": "Theon Greyjoy"
+    },
+    {
+      "house": null,
+      "season": 1,
+      "numOfScenes": 24,
+      "numOfKills": 0,
+      "screenTime": "0:55:19",
+      "character": "Rodrik Cassel"
+    },
+    {
+      "house": null,
+      "season": 1,
+      "numOfScenes": 9,
+      "numOfKills": 0,
+      "screenTime": "0:21:33",
+      "character": "Septa Mordane"
+    },
+    {
+      "house": null,
+      "season": 1,
+      "numOfScenes": 18,
+      "numOfKills": 0,
+      "screenTime": "0:33:16",
+      "character": "Jory Cassel"
+    },
+    {
+      "house": "Stark",
+      "season": 1,
+      "numOfScenes": 3,
+      "numOfKills": 0,
+      "screenTime": "0:06:30",
+      "character": "Grey Wind"
+    },
+    {
+      "house": "Stark",
+      "season": 1,
+      "numOfScenes": 4,
+      "numOfKills": 0,
+      "screenTime": "0:05:32",
+      "character": "Lady"
+    },
+    {
+      "house": "Stark",
+      "season": 1,
+      "numOfScenes": 4,
+      "numOfKills": 0,
+      "screenTime": "0:08:54",
+      "character": "Nymeria"
+    },
+    {
+      "house": "Stark",
+      "season": 1,
+      "numOfScenes": 9,
+      "numOfKills": 1,
+      "screenTime": "0:16:31",
+      "character": "Summer"
+    },
+    {
+      "house": "Stark",
+      "season": 1,
+      "numOfScenes": 2,
+      "numOfKills": 0,
+      "screenTime": "0:04:19",
+      "character": "Shaggydog"
+    },
+    {
+      "house": "Stark",
+      "season": 1,
+      "numOfScenes": 9,
+      "numOfKills": 0,
+      "screenTime": "0:14:18",
+      "character": "Ghost"
+    },
+    {
+      "house": null,
+      "season": 1,
+      "numOfScenes": 1,
+      "numOfKills": 0,
+      "screenTime": "0:02:01",
+      "character": "Jon Arryn"
+    },
+    {
+      "house": ["Lannister", "Baratheon"],
+      "season": 1,
+      "numOfScenes": 22,
+      "numOfKills": 0,
+      "screenTime": "1:10:52",
+      "character": "Cersei Lannister"
+    },
+    {
+      "house": "Lannister",
+      "season": 1,
+      "numOfScenes": 15,
+      "numOfKills": 1,
+      "screenTime": "0:42:03",
+      "character": "Jaime Lannister"
+    },
+    {
+      "house": null,
+      "season": 1,
+      "numOfScenes": 10,
+      "numOfKills": 0,
+      "screenTime": "0:23:45",
+      "character": "Maester Luwin"
+    },
+    {
+      "house": "Baratheon",
+      "season": 1,
+      "numOfScenes": 17,
+      "numOfKills": 0,
+      "screenTime": "1:00:25",
+      "character": "Joffrey Baratheon"
+    },
+    {
+      "house": null,
+      "season": 1,
+      "numOfScenes": 14,
+      "numOfKills": 1,
+      "screenTime": "0:40:42",
+      "character": "Sandor Clegane"
+    },
+    {
+      "house": null,
+      "season": 1,
+      "numOfScenes": 6,
+      "numOfKills": 0,
+      "screenTime": "0:11:12",
+      "character": "Hodor"
+    },
+    {
+      "house": "Baratheon",
+      "season": 1,
+      "numOfScenes": 18,
+      "numOfKills": 0,
+      "screenTime": "0:57:03",
+      "character": "Robert Baratheon"
+    },
+    {
+      "house": "Baratheon",
+      "season": 1,
+      "numOfScenes": 4,
+      "numOfKills": 0,
+      "screenTime": "0:15:58",
+      "character": "Myrcella Baratheon"
+    },
+    {
+      "house": "Baratheon",
+      "season": 1,
+      "numOfScenes": 4,
+      "numOfKills": 0,
+      "screenTime": "0:15:58",
+      "character": "Tommen Baratheon"
+    },
+    {
+      "house": "Lannister",
+      "season": 1,
+      "numOfScenes": 38,
+      "numOfKills": 0,
+      "screenTime": "1:21:43",
+      "character": "Tyrion Lannister"
+    },
+    {
+      "house": null,
+      "season": 1,
+      "numOfScenes": 5,
+      "numOfKills": 0,
+      "screenTime": "0:13:36",
+      "character": "Ros"
+    },
+    {
+      "house": "Targaryen",
+      "season": 1,
+      "numOfScenes": 36,
+      "numOfKills": 2,
+      "screenTime": "1:21:40",
+      "character": "Daenerys Targaryen"
+    },
+    {
+      "house": "Targaryen",
+      "season": 1,
+      "numOfScenes": 12,
+      "numOfKills": 0,
+      "screenTime": "0:36:35",
+      "character": "Viserys Targaryen"
+    },
+    {
+      "house": null,
+      "season": 1,
+      "numOfScenes": 4,
+      "numOfKills": 0,
+      "screenTime": "0:10:54",
+      "character": "Illyrio Mopatis"
+    },
+    {
+      "house": null,
+      "season": 1,
+      "numOfScenes": 21,
+      "numOfKills": 2,
+      "screenTime": "0:56:55",
+      "character": "Khal Drogo"
+    },
+    {
+      "house": null,
+      "season": 1,
+      "numOfScenes": 7,
+      "numOfKills": 0,
+      "screenTime": "0:26:27",
+      "character": "Qotho"
+    },
+    {
+      "house": "Stark",
+      "season": 1,
+      "numOfScenes": 8,
+      "numOfKills": 0,
+      "screenTime": "0:20:32",
+      "character": "Benjen Stark"
+    },
+    {
+      "house": "Mormont",
+      "season": 1,
+      "numOfScenes": 22,
+      "numOfKills": 1,
+      "screenTime": "1:00:50",
+      "character": "Jorah Mormont"
+    },
+    {
+      "house": "Targaryen",
+      "season": 1,
+      "numOfScenes": 9,
+      "numOfKills": 0,
+      "screenTime": "0:21:08",
+      "character": "Drogon"
+    },
+    {
+      "house": "Targaryen",
+      "season": 1,
+      "numOfScenes": 9,
+      "numOfKills": 0,
+      "screenTime": "0:21:08",
+      "character": "Rhaegal"
+    },
+    {
+      "house": "Targaryen",
+      "season": 1,
+      "numOfScenes": 9,
+      "numOfKills": 0,
+      "screenTime": "0:21:08",
+      "character": "Viserion"
+    },
+    {
+      "house": null,
+      "season": 1,
+      "numOfScenes": 12,
+      "numOfKills": 0,
+      "screenTime": "0:39:31",
+      "character": "Doreah"
+    },
+    {
+      "house": null,
+      "season": 1,
+      "numOfScenes": 15,
+      "numOfKills": 0,
+      "screenTime": "0:42:30",
+      "character": "Irri"
+    },
+    {
+      "house": null,
+      "season": 1,
+      "numOfScenes": 2,
+      "numOfKills": 0,
+      "screenTime": "0:04:59",
+      "character": "Jhiqui"
+    },
+    {
+      "house": null,
+      "season": 1,
+      "numOfScenes": 11,
+      "numOfKills": 0,
+      "screenTime": "0:23:18",
+      "character": "Rast"
+    },
+    {
+      "house": null,
+      "season": 1,
+      "numOfScenes": 1,
+      "numOfKills": 0,
+      "screenTime": "0:03:12",
+      "character": "Catspaw Assassin"
+    },
+    {
+      "house": null,
+      "season": 1,
+      "numOfScenes": 5,
+      "numOfKills": 1,
+      "screenTime": "0:15:01",
+      "character": "Ilyn Payne"
+    },
+    {
+      "house": null,
+      "season": 1,
+      "numOfScenes": 2,
+      "numOfKills": 0,
+      "screenTime": "0:03:14",
+      "character": "Mycah"
+    },
+    {
+      "house": null,
+      "season": 1,
+      "numOfScenes": 6,
+      "numOfKills": 0,
+      "screenTime": "0:11:25",
+      "character": "Royal Steward"
+    },
+    {
+      "house": null,
+      "season": 1,
+      "numOfScenes": 18,
+      "numOfKills": 0,
+      "screenTime": "0:49:09",
+      "character": "Lord Varys"
+    },
+    {
+      "house": null,
+      "season": 1,
+      "numOfScenes": 14,
+      "numOfKills": 0,
+      "screenTime": "0:43:58",
+      "character": "Grand Maester Pycelle"
+    },
+    {
+      "house": "Baratheon",
+      "season": 1,
+      "numOfScenes": 12,
+      "numOfKills": 0,
+      "screenTime": "0:35:17",
+      "character": "Renly Baratheon"
+    },
+    {
+      "house": null,
+      "season": 1,
+      "numOfScenes": 24,
+      "numOfKills": 0,
+      "screenTime": "1:05:14",
+      "character": "Petyr Baelish"
+    },
+    {
+      "house": null,
+      "season": 1,
+      "numOfScenes": 2,
+      "numOfKills": 0,
+      "screenTime": "0:03:56",
+      "character": "Old Nan"
+    },
+    {
+      "house": "Mormont",
+      "season": 1,
+      "numOfScenes": 11,
+      "numOfKills": 0,
+      "screenTime": "0:20:11",
+      "character": "Jeor Mormont"
+    },
+    {
+      "house": null,
+      "season": 1,
+      "numOfScenes": 6,
+      "numOfKills": 0,
+      "screenTime": "0:19:02",
+      "character": "Alliser Thorne"
+    },
+    {
+      "house": null,
+      "season": 1,
+      "numOfScenes": 13,
+      "numOfKills": 0,
+      "screenTime": "0:24:55",
+      "character": "Pypar"
+    },
+    {
+      "house": null,
+      "season": 1,
+      "numOfScenes": 12,
+      "numOfKills": 0,
+      "screenTime": "0:23:09",
+      "character": "Grenn"
+    },
+    {
+      "house": null,
+      "season": 1,
+      "numOfScenes": 10,
+      "numOfKills": 0,
+      "screenTime": "0:32:15",
+      "character": "Barristan Selmy"
+    },
+    {
+      "house": "Lannister",
+      "season": 1,
+      "numOfScenes": 4,
+      "numOfKills": 0,
+      "screenTime": "0:09:30",
+      "character": "Lancel Lannister"
+    },
+    {
+      "house": null,
+      "season": 1,
+      "numOfScenes": 12,
+      "numOfKills": 0,
+      "screenTime": "0:37:19",
+      "character": "Rakharo"
+    },
+    {
+      "house": null,
+      "season": 1,
+      "numOfScenes": 11,
+      "numOfKills": 0,
+      "screenTime": "0:20:21",
+      "character": "Yoren"
+    },
+    {
+      "house": "Targaryen",
+      "season": 1,
+      "numOfScenes": 3,
+      "numOfKills": 0,
+      "screenTime": "0:11:13",
+      "character": "Maester Aemon"
+    },
+    {
+      "house": null,
+      "season": 1,
+      "numOfScenes": 5,
+      "numOfKills": 0,
+      "screenTime": "0:08:13",
+      "character": "Syrio Forel"
+    },
+    {
+      "house": null,
+      "season": 1,
+      "numOfScenes": 3,
+      "numOfKills": 0,
+      "screenTime": "0:01:52",
+      "character": "Three-Eyed Raven"
+    },
+    {
+      "house": null,
+      "season": 1,
+      "numOfScenes": 16,
+      "numOfKills": 0,
+      "screenTime": "0:31:58",
+      "character": "Samwell Tarly"
+    },
+    {
+      "house": null,
+      "season": 1,
+      "numOfScenes": 4,
+      "numOfKills": 0,
+      "screenTime": "0:12:16",
+      "character": "Janos Slynt"
+    },
+    {
+      "house": null,
+      "season": 1,
+      "numOfScenes": 3,
+      "numOfKills": 0,
+      "screenTime": "0:05:19",
+      "character": "Hugh of the Vale"
+    },
+    {
+      "house": null,
+      "season": 1,
+      "numOfScenes": 2,
+      "numOfKills": 0,
+      "screenTime": "0:04:12",
+      "character": "Gendry"
+    },
+    {
+      "house": null,
+      "season": 1,
+      "numOfScenes": 1,
+      "numOfKills": 0,
+      "screenTime": "0:01:57",
+      "character": "Tobho Mott"
+    },
+    {
+      "house": null,
+      "season": 1,
+      "numOfScenes": 2,
+      "numOfKills": 1,
+      "screenTime": "0:08:08",
+      "character": "Gregor Clegane"
+    },
+    {
+      "house": null,
+      "season": 1,
+      "numOfScenes": 3,
+      "numOfKills": 0,
+      "screenTime": "0:09:07",
+      "character": "Marillion"
+    },
+    {
+      "house": null,
+      "season": 1,
+      "numOfScenes": 15,
+      "numOfKills": 1,
+      "screenTime": "0:39:58",
+      "character": "Bronn"
+    },
+    {
+      "house": "Tyrell",
+      "season": 1,
+      "numOfScenes": 2,
+      "numOfKills": 0,
+      "screenTime": "0:07:56",
+      "character": "Loras Tyrell"
+    },
+    {
+      "house": null,
+      "season": 1,
+      "numOfScenes": 4,
+      "numOfKills": 0,
+      "screenTime": "0:13:11",
+      "character": "Vardis Egen"
+    },
+    {
+      "house": ["Arryn", "Tully"],
+      "season": 1,
+      "numOfScenes": 4,
+      "numOfKills": 1,
+      "screenTime": "0:13:55",
+      "character": "Lysa Arryn"
+    },
+    {
+      "house": null,
+      "season": 1,
+      "numOfScenes": 4,
+      "numOfKills": 0,
+      "screenTime": "0:13:55",
+      "character": "Robin Arryn"
+    },
+    {
+      "house": null,
+      "season": 1,
+      "numOfScenes": 4,
+      "numOfKills": 0,
+      "screenTime": "0:08:13",
+      "character": "Mord"
+    },
+    {
+      "house": null,
+      "season": 1,
+      "numOfScenes": 1,
+      "numOfKills": 0,
+      "screenTime": "0:00:56",
+      "character": "Mhaegen"
+    },
+    {
+      "house": null,
+      "season": 1,
+      "numOfScenes": 6,
+      "numOfKills": 0,
+      "screenTime": "0:11:39",
+      "character": "Osha"
+    },
+    {
+      "house": null,
+      "season": 1,
+      "numOfScenes": 1,
+      "numOfKills": 0,
+      "screenTime": "0:03:27",
+      "character": "Stiv"
+    },
+    {
+      "house": null,
+      "season": 1,
+      "numOfScenes": 1,
+      "numOfKills": 0,
+      "screenTime": "0:03:27",
+      "character": "Wallen"
+    },
+    {
+      "house": null,
+      "season": 1,
+      "numOfScenes": 2,
+      "numOfKills": 0,
+      "screenTime": "0:05:24",
+      "character": "Rhaego"
+    },
+    {
+      "house": null,
+      "season": 1,
+      "numOfScenes": 1,
+      "numOfKills": 0,
+      "screenTime": "0:04:05",
+      "character": "Beric Dondarrion"
+    },
+    {
+      "house": "Lannister",
+      "season": 1,
+      "numOfScenes": 6,
+      "numOfKills": 0,
+      "screenTime": "0:14:42",
+      "character": "Tywin Lannister"
+    },
+    {
+      "house": null,
+      "season": 1,
+      "numOfScenes": 1,
+      "numOfKills": 0,
+      "screenTime": "0:05:04",
+      "character": "Armeca"
+    },
+    {
+      "house": null,
+      "season": 1,
+      "numOfScenes": 1,
+      "numOfKills": 0,
+      "screenTime": "0:00:33",
+      "character": "Little Bird"
+    },
+    {
+      "house": null,
+      "season": 1,
+      "numOfScenes": 3,
+      "numOfKills": 0,
+      "screenTime": "0:07:11",
+      "character": "Wine Merchant"
+    },
+    {
+      "house": null,
+      "season": 1,
+      "numOfScenes": 4,
+      "numOfKills": 0,
+      "screenTime": "0:08:54",
+      "character": "Othell Yarwyck"
+    },
+    {
+      "house": null,
+      "season": 1,
+      "numOfScenes": 1,
+      "numOfKills": 0,
+      "screenTime": "0:05:30",
+      "character": "Jaremy Rykker"
+    },
+    {
+      "house": null,
+      "season": 1,
+      "numOfScenes": 1,
+      "numOfKills": 0,
+      "screenTime": "0:03:30",
+      "character": "Tomard"
+    },
+    {
+      "house": null,
+      "season": 1,
+      "numOfScenes": 1,
+      "numOfKills": 0,
+      "screenTime": "0:00:20",
+      "character": "Varly"
+    },
+    {
+      "house": null,
+      "season": 1,
+      "numOfScenes": 4,
+      "numOfKills": 1,
+      "screenTime": "0:14:08",
+      "character": "Meryn Trant"
+    },
+    {
+      "house": null,
+      "season": 1,
+      "numOfScenes": 1,
+      "numOfKills": 0,
+      "screenTime": "0:00:37",
+      "character": "Red Keep Stableboy"
+    },
+    {
+      "house": null,
+      "season": 1,
+      "numOfScenes": 2,
+      "numOfKills": 0,
+      "screenTime": "0:02:42",
+      "character": "Othor"
+    },
+    {
+      "house": null,
+      "season": 1,
+      "numOfScenes": 1,
+      "numOfKills": 0,
+      "screenTime": "0:01:16",
+      "character": "Jafer Flowers"
+    },
+    {
+      "house": null,
+      "season": 1,
+      "numOfScenes": 4,
+      "numOfKills": 0,
+      "screenTime": "0:08:10",
+      "character": "Shagga"
+    },
+    {
+      "house": null,
+      "season": 1,
+      "numOfScenes": 7,
+      "numOfKills": 0,
+      "screenTime": "0:23:21",
+      "character": "Mirri Maz Duur"
+    },
+    {
+      "house": null,
+      "season": 1,
+      "numOfScenes": 2,
+      "numOfKills": 0,
+      "screenTime": "0:06:19",
+      "character": "Mago"
+    },
+    {
+      "house": null,
+      "season": 1,
+      "numOfScenes": 8,
+      "numOfKills": 0,
+      "screenTime": "0:13:21",
+      "character": "Greatjon Umber"
+    },
+    {
+      "house": null,
+      "season": 1,
+      "numOfScenes": 3,
+      "numOfKills": 0,
+      "screenTime": "0:05:19",
+      "character": "Timett"
+    },
+    {
+      "house": "Lannister",
+      "season": 1,
+      "numOfScenes": 3,
+      "numOfKills": 0,
+      "screenTime": "0:06:22",
+      "character": "Kevan Lannister"
+    },
+    {
+      "house": null,
+      "season": 1,
+      "numOfScenes": 1,
+      "numOfKills": 0,
+      "screenTime": "0:03:18",
+      "character": "Lannister Messenger"
+    },
+    {
+      "house": null,
+      "season": 1,
+      "numOfScenes": 2,
+      "numOfKills": 0,
+      "screenTime": "0:02:15",
+      "character": "Lannister Scout"
+    },
+    {
+      "house": "Frey",
+      "season": 1,
+      "numOfScenes": 2,
+      "numOfKills": 0,
+      "screenTime": "0:03:29",
+      "character": "Walder Frey"
+    },
+    {
+      "house": null,
+      "season": 1,
+      "numOfScenes": 1,
+      "numOfKills": 0,
+      "screenTime": "0:01:36",
+      "character": "Joyeuse Erenford"
+    },
+    {
+      "house": "Frey",
+      "season": 1,
+      "numOfScenes": 1,
+      "numOfKills": 0,
+      "screenTime": "0:01:36",
+      "character": "Stevron Frey"
+    },
+    {
+      "house": null,
+      "season": 1,
+      "numOfScenes": 1,
+      "numOfKills": 0,
+      "screenTime": "0:01:36",
+      "character": "Ryger Rivers"
+    },
+    {
+      "house": null,
+      "season": 1,
+      "numOfScenes": 4,
+      "numOfKills": 0,
+      "screenTime": "0:12:12",
+      "character": "Shae"
+    },
+    {
+      "house": null,
+      "season": 1,
+      "numOfScenes": 1,
+      "numOfKills": 0,
+      "screenTime": "0:02:16",
+      "character": "Rickard Karstark"
+    },
+    {
+      "house": null,
+      "season": 1,
+      "numOfScenes": 1,
+      "numOfKills": 0,
+      "screenTime": "0:02:16",
+      "character": "Jonos Bracken"
+    },
+    {
+      "house": null,
+      "season": 1,
+      "numOfScenes": 1,
+      "numOfKills": 0,
+      "screenTime": "0:01:16",
+      "character": "Leo Lefford"
+    },
+    {
+      "house": null,
+      "season": 1,
+      "numOfScenes": 1,
+      "numOfKills": 0,
+      "screenTime": "0:01:16",
+      "character": "Addam Marbrand"
+    },
+    {
+      "house": null,
+      "season": 1,
+      "numOfScenes": 1,
+      "numOfKills": 0,
+      "screenTime": "0:02:15",
+      "character": "Hot Pie"
+    },
+    {
+      "house": null,
+      "season": 1,
+      "numOfScenes": 1,
+      "numOfKills": 0,
+      "screenTime": "0:02:15",
+      "character": "Lommy Greenhands"
+    }
+  ],
+  [
+    {
+      "house": null,
+      "season": 2,
+      "numOfScenes": 30,
+      "numOfKills": 3,
+      "screenTime": "0:24:05",
+      "character": "Sandor Clegane"
+    },
+    {
+      "house": "Baratheon",
+      "season": 2,
+      "numOfScenes": 36,
+      "numOfKills": 0,
+      "screenTime": "0:29:01",
+      "character": "Joffrey Baratheon"
+    },
+    {
+      "house": "Stark",
+      "season": 2,
+      "numOfScenes": 43,
+      "numOfKills": 0,
+      "screenTime": "0:40:55",
+      "character": "Sansa Stark"
+    },
+    {
+      "house": null,
+      "season": 2,
+      "numOfScenes": 12,
+      "numOfKills": 0,
+      "screenTime": "0:10:59",
+      "character": "Meryn Trant"
+    },
+    {
+      "house": "Baratheon",
+      "season": 2,
+      "numOfScenes": 18,
+      "numOfKills": 0,
+      "screenTime": "0:12:04",
+      "character": "Tommen Baratheon"
+    },
+    {
+      "house": "Baratheon",
+      "season": 2,
+      "numOfScenes": 4,
+      "numOfKills": 0,
+      "screenTime": "0:06:11",
+      "character": "Myrcella Baratheon"
+    },
+    {
+      "house": null,
+      "season": 2,
+      "numOfScenes": 2,
+      "numOfKills": 0,
+      "screenTime": "0:04:03",
+      "character": "Dontos Hollard"
+    },
+    {
+      "house": "Lannister",
+      "season": 2,
+      "numOfScenes": 82,
+      "numOfKills": 0,
+      "screenTime": "1:27:37",
+      "character": "Tyrion Lannister"
+    },
+    {
+      "house": null,
+      "season": 2,
+      "numOfScenes": 20,
+      "numOfKills": 1,
+      "screenTime": "0:28:29",
+      "character": "Bronn"
+    },
+    {
+      "house": null,
+      "season": 2,
+      "numOfScenes": 15,
+      "numOfKills": 0,
+      "screenTime": "0:26:34",
+      "character": "Lord Varys"
+    },
+    {
+      "house": null,
+      "season": 2,
+      "numOfScenes": 10,
+      "numOfKills": 0,
+      "screenTime": "0:15:38",
+      "character": "Grand Maester Pycelle"
+    },
+    {
+      "house": ["Lannister", "Baratheon"],
+      "season": 2,
+      "numOfScenes": 46,
+      "numOfKills": 0,
+      "screenTime": "0:50:21",
+      "character": "Cersei Lannister"
+    },
+    {
+      "house": null,
+      "season": 2,
+      "numOfScenes": 19,
+      "numOfKills": 0,
+      "screenTime": "0:33:46",
+      "character": "Petyr Baelish"
+    },
+    {
+      "house": null,
+      "season": 2,
+      "numOfScenes": 6,
+      "numOfKills": 1,
+      "screenTime": "0:09:19",
+      "character": "Janos Slynt"
+    },
+    {
+      "house": "Stark",
+      "season": 2,
+      "numOfScenes": 19,
+      "numOfKills": 0,
+      "screenTime": "0:23:07",
+      "character": "Bran Stark"
+    },
+    {
+      "house": null,
+      "season": 2,
+      "numOfScenes": 19,
+      "numOfKills": 0,
+      "screenTime": "0:24:51",
+      "character": "Maester Luwin"
+    },
+    {
+      "house": null,
+      "season": 2,
+      "numOfScenes": 1,
+      "numOfKills": 0,
+      "screenTime": "0:01:56",
+      "character": "Lord Portan"
+    },
+    {
+      "house": "Stark",
+      "season": 2,
+      "numOfScenes": 6,
+      "numOfKills": 0,
+      "screenTime": "0:04:06",
+      "character": "Summer"
+    },
+    {
+      "house": null,
+      "season": 2,
+      "numOfScenes": 15,
+      "numOfKills": 0,
+      "screenTime": "0:17:20",
+      "character": "Hodor"
+    },
+    {
+      "house": null,
+      "season": 2,
+      "numOfScenes": 17,
+      "numOfKills": 2,
+      "screenTime": "0:19:24",
+      "character": "Osha"
+    },
+    {
+      "house": "Targaryen",
+      "season": 2,
+      "numOfScenes": 38,
+      "numOfKills": 3,
+      "screenTime": "0:50:37",
+      "character": "Daenerys Targaryen"
+    },
+    {
+      "house": "Targaryen",
+      "season": 2,
+      "numOfScenes": 8,
+      "numOfKills": 0,
+      "screenTime": "0:09:36",
+      "character": "Drogon"
+    },
+    {
+      "house": null,
+      "season": 2,
+      "numOfScenes": 8,
+      "numOfKills": 1,
+      "screenTime": "0:11:06",
+      "character": "Doreah"
+    },
+    {
+      "house": null,
+      "season": 2,
+      "numOfScenes": 3,
+      "numOfKills": 0,
+      "screenTime": "0:06:49",
+      "character": "Rakharo"
+    },
+    {
+      "house": "Mormont",
+      "season": 2,
+      "numOfScenes": 22,
+      "numOfKills": 0,
+      "screenTime": "0:28:14",
+      "character": "Jorah Mormont"
+    },
+    {
+      "house": null,
+      "season": 2,
+      "numOfScenes": 16,
+      "numOfKills": 0,
+      "screenTime": "0:18:02",
+      "character": "Kovarro"
+    },
+    {
+      "house": "Stark",
+      "season": 2,
+      "numOfScenes": 28,
+      "numOfKills": 1,
+      "screenTime": "0:44:18",
+      "character": "Jon Snow"
+    },
+    {
+      "house": null,
+      "season": 2,
+      "numOfScenes": 14,
+      "numOfKills": 0,
+      "screenTime": "0:20:25",
+      "character": "Samwell Tarly"
+    },
+    {
+      "house": null,
+      "season": 2,
+      "numOfScenes": 9,
+      "numOfKills": 0,
+      "screenTime": "0:13:05",
+      "character": "Grenn"
+    },
+    {
+      "house": null,
+      "season": 2,
+      "numOfScenes": 8,
+      "numOfKills": 0,
+      "screenTime": "0:12:44",
+      "character": "Eddison Tollett"
+    },
+    {
+      "house": "Mormont",
+      "season": 2,
+      "numOfScenes": 6,
+      "numOfKills": 0,
+      "screenTime": "0:10:41",
+      "character": "Jeor Mormont"
+    },
+    {
+      "house": null,
+      "season": 2,
+      "numOfScenes": 4,
+      "numOfKills": 0,
+      "screenTime": "0:06:48",
+      "character": "Craster"
+    },
+    {
+      "house": null,
+      "season": 2,
+      "numOfScenes": 4,
+      "numOfKills": 0,
+      "screenTime": "0:08:17",
+      "character": "Gilly"
+    },
+    {
+      "house": null,
+      "season": 2,
+      "numOfScenes": 8,
+      "numOfKills": 1,
+      "screenTime": "0:20:38",
+      "character": "Melisandre"
+    },
+    {
+      "house": null,
+      "season": 2,
+      "numOfScenes": 3,
+      "numOfKills": 1,
+      "screenTime": "0:07:12",
+      "character": "Maester Cressen"
+    },
+    {
+      "house": null,
+      "season": 2,
+      "numOfScenes": 21,
+      "numOfKills": 0,
+      "screenTime": "0:31:19",
+      "character": "Davos Seaworth"
+    },
+    {
+      "house": null,
+      "season": 2,
+      "numOfScenes": 12,
+      "numOfKills": 0,
+      "screenTime": "0:15:29",
+      "character": "Matthos Seaworth"
+    },
+    {
+      "house": "Baratheon",
+      "season": 2,
+      "numOfScenes": 29,
+      "numOfKills": 0,
+      "screenTime": "0:27:12",
+      "character": "Stannis Baratheon"
+    },
+    {
+      "house": "Baratheon",
+      "season": 2,
+      "numOfScenes": 1,
+      "numOfKills": 0,
+      "screenTime": "0:03:09",
+      "character": "Selyse Baratheon"
+    },
+    {
+      "house": "Stark",
+      "season": 2,
+      "numOfScenes": 24,
+      "numOfKills": 0,
+      "screenTime": "0:34:02",
+      "character": "Robb Stark"
+    },
+    {
+      "house": "Lannister",
+      "season": 2,
+      "numOfScenes": 10,
+      "numOfKills": 2,
+      "screenTime": "0:22:43",
+      "character": "Jaime Lannister"
+    },
+    {
+      "house": "Stark",
+      "season": 2,
+      "numOfScenes": 2,
+      "numOfKills": 1,
+      "screenTime": "0:05:17",
+      "character": "Grey Wind"
+    },
+    {
+      "house": null,
+      "season": 2,
+      "numOfScenes": 24,
+      "numOfKills": 0,
+      "screenTime": "0:23:32",
+      "character": "Shae"
+    },
+    {
+      "house": "Lannister",
+      "season": 2,
+      "numOfScenes": 5,
+      "numOfKills": 0,
+      "screenTime": "0:10:00",
+      "character": "Alton Lannister"
+    },
+    {
+      "house": null,
+      "season": 2,
+      "numOfScenes": 3,
+      "numOfKills": 0,
+      "screenTime": "0:05:49",
+      "character": "Rodrik Cassel"
+    },
+    {
+      "house": "Greyjoy",
+      "season": 2,
+      "numOfScenes": 36,
+      "numOfKills": 1,
+      "screenTime": "0:48:28",
+      "character": "Theon Greyjoy"
+    },
+    {
+      "house": ["Stark", "Tully"],
+      "season": 2,
+      "numOfScenes": 18,
+      "numOfKills": 0,
+      "screenTime": "0:33:25",
+      "character": "Catelyn Stark"
+    },
+    {
+      "house": null,
+      "season": 2,
+      "numOfScenes": 6,
+      "numOfKills": 0,
+      "screenTime": "0:12:39",
+      "character": "Ros"
+    },
+    {
+      "house": null,
+      "season": 2,
+      "numOfScenes": 4,
+      "numOfKills": 0,
+      "screenTime": "0:05:25",
+      "character": "Armeca"
+    },
+    {
+      "house": null,
+      "season": 2,
+      "numOfScenes": 4,
+      "numOfKills": 0,
+      "screenTime": "0:07:54",
+      "character": "Daisy"
+    },
+    {
+      "house": null,
+      "season": 2,
+      "numOfScenes": 1,
+      "numOfKills": 0,
+      "screenTime": "0:02:05",
+      "character": "Mhaegen"
+    },
+    {
+      "house": null,
+      "season": 2,
+      "numOfScenes": 1,
+      "numOfKills": 0,
+      "screenTime": "0:00:23",
+      "character": "Tobho Mott"
+    },
+    {
+      "house": null,
+      "season": 2,
+      "numOfScenes": 22,
+      "numOfKills": 0,
+      "screenTime": "0:27:40",
+      "character": "Gendry"
+    },
+    {
+      "house": "Stark",
+      "season": 2,
+      "numOfScenes": 42,
+      "numOfKills": 0,
+      "screenTime": "0:56:13",
+      "character": "Arya Stark"
+    },
+    {
+      "house": null,
+      "season": 2,
+      "numOfScenes": 16,
+      "numOfKills": 0,
+      "screenTime": "0:14:26",
+      "character": "Hot Pie"
+    },
+    {
+      "house": null,
+      "season": 2,
+      "numOfScenes": 5,
+      "numOfKills": 0,
+      "screenTime": "0:05:19",
+      "character": "Lommy Greenhands"
+    },
+    {
+      "house": null,
+      "season": 2,
+      "numOfScenes": 10,
+      "numOfKills": 2,
+      "screenTime": "0:12:38",
+      "character": "Jaqen H'ghar"
+    },
+    {
+      "house": null,
+      "season": 2,
+      "numOfScenes": 2,
+      "numOfKills": 0,
+      "screenTime": "0:02:07",
+      "character": "Rorge"
+    },
+    {
+      "house": null,
+      "season": 2,
+      "numOfScenes": 2,
+      "numOfKills": 0,
+      "screenTime": "0:02:07",
+      "character": "Biter"
+    },
+    {
+      "house": null,
+      "season": 2,
+      "numOfScenes": 5,
+      "numOfKills": 0,
+      "screenTime": "0:09:25",
+      "character": "Yoren"
+    },
+    {
+      "house": null,
+      "season": 2,
+      "numOfScenes": 1,
+      "numOfKills": 0,
+      "screenTime": "0:02:13",
+      "character": "Goldcloak"
+    },
+    {
+      "house": "Stark",
+      "season": 2,
+      "numOfScenes": 3,
+      "numOfKills": 0,
+      "screenTime": "0:05:14",
+      "character": "Ghost"
+    },
+    {
+      "house": null,
+      "season": 2,
+      "numOfScenes": 4,
+      "numOfKills": 0,
+      "screenTime": "0:05:25",
+      "character": "Irri"
+    },
+    {
+      "house": null,
+      "season": 2,
+      "numOfScenes": 28,
+      "numOfKills": 1,
+      "screenTime": "0:12:18",
+      "character": "Podrick Payne"
+    },
+    {
+      "house": null,
+      "season": 2,
+      "numOfScenes": 1,
+      "numOfKills": 0,
+      "screenTime": "0:01:19",
+      "character": "Lordsport Dockhand"
+    },
+    {
+      "house": "Greyjoy",
+      "season": 2,
+      "numOfScenes": 10,
+      "numOfKills": 0,
+      "screenTime": "0:14:46",
+      "character": "Yara Greyjoy"
+    },
+    {
+      "house": "Greyjoy",
+      "season": 2,
+      "numOfScenes": 4,
+      "numOfKills": 0,
+      "screenTime": "0:09:27",
+      "character": "Balon Greyjoy"
+    },
+    {
+      "house": null,
+      "season": 2,
+      "numOfScenes": 1,
+      "numOfKills": 0,
+      "screenTime": "0:03:12",
+      "character": "Salladhor Saan"
+    },
+    {
+      "house": null,
+      "season": 2,
+      "numOfScenes": 3,
+      "numOfKills": 0,
+      "screenTime": "0:02:10",
+      "character": "White Walker"
+    },
+    {
+      "house": "Baratheon",
+      "season": 2,
+      "numOfScenes": 9,
+      "numOfKills": 0,
+      "screenTime": "0:21:14",
+      "character": "Renly Baratheon"
+    },
+    {
+      "house": "Tyrell",
+      "season": 2,
+      "numOfScenes": 7,
+      "numOfKills": 0,
+      "screenTime": "0:16:16",
+      "character": "Margaery Tyrell"
+    },
+    {
+      "house": null,
+      "season": 2,
+      "numOfScenes": 18,
+      "numOfKills": 2,
+      "screenTime": "0:31:09",
+      "character": "Brienne of Tarth"
+    },
+    {
+      "house": "Tyrell",
+      "season": 2,
+      "numOfScenes": 10,
+      "numOfKills": 0,
+      "screenTime": "0:17:41",
+      "character": "Loras Tyrell"
+    },
+    {
+      "house": null,
+      "season": 2,
+      "numOfScenes": 1,
+      "numOfKills": 0,
+      "screenTime": "0:04:08",
+      "character": "Colen of Greenpools"
+    },
+    {
+      "house": null,
+      "season": 2,
+      "numOfScenes": 1,
+      "numOfKills": 0,
+      "screenTime": "0:01:21",
+      "character": "Drowned Priest"
+    },
+    {
+      "house": null,
+      "season": 2,
+      "numOfScenes": 1,
+      "numOfKills": 0,
+      "screenTime": "0:02:08",
+      "character": "Timett"
+    },
+    {
+      "house": null,
+      "season": 2,
+      "numOfScenes": 6,
+      "numOfKills": 1,
+      "screenTime": "0:06:46",
+      "character": "Amory Lorch"
+    },
+    {
+      "house": null,
+      "season": 2,
+      "numOfScenes": 3,
+      "numOfKills": 1,
+      "screenTime": "0:03:52",
+      "character": "Polliver"
+    },
+    {
+      "house": "Bolton",
+      "season": 2,
+      "numOfScenes": 8,
+      "numOfKills": 0,
+      "screenTime": "0:06:04",
+      "character": "Roose Bolton"
+    },
+    {
+      "house": null,
+      "season": 2,
+      "numOfScenes": 12,
+      "numOfKills": 0,
+      "screenTime": "0:16:19",
+      "character": "Talisa Maegyr"
+    },
+    {
+      "house": "Lannister",
+      "season": 2,
+      "numOfScenes": 15,
+      "numOfKills": 0,
+      "screenTime": "0:12:58",
+      "character": "Lancel Lannister"
+    },
+    {
+      "house": null,
+      "season": 2,
+      "numOfScenes": 2,
+      "numOfKills": 0,
+      "screenTime": "0:01:22",
+      "character": "Old Woman Prisoner"
+    },
+    {
+      "house": null,
+      "season": 2,
+      "numOfScenes": 5,
+      "numOfKills": 0,
+      "screenTime": "0:06:50",
+      "character": "Gregor Clegane"
+    },
+    {
+      "house": null,
+      "season": 2,
+      "numOfScenes": 4,
+      "numOfKills": 1,
+      "screenTime": "0:04:55",
+      "character": "The Tickler"
+    },
+    {
+      "house": null,
+      "season": 2,
+      "numOfScenes": 3,
+      "numOfKills": 0,
+      "screenTime": "0:11:42",
+      "character": "Spice King"
+    },
+    {
+      "house": null,
+      "season": 2,
+      "numOfScenes": 12,
+      "numOfKills": 0,
+      "screenTime": "0:20:42",
+      "character": "Xaro Xhoan Daxos"
+    },
+    {
+      "house": null,
+      "season": 2,
+      "numOfScenes": 5,
+      "numOfKills": 2,
+      "screenTime": "0:11:47",
+      "character": "Pyat Pree"
+    },
+    {
+      "house": null,
+      "season": 2,
+      "numOfScenes": 2,
+      "numOfKills": 0,
+      "screenTime": "0:07:42",
+      "character": "Silk King"
+    },
+    {
+      "house": "Lannister",
+      "season": 2,
+      "numOfScenes": 12,
+      "numOfKills": 0,
+      "screenTime": "0:21:18",
+      "character": "Tywin Lannister"
+    },
+    {
+      "house": null,
+      "season": 2,
+      "numOfScenes": 5,
+      "numOfKills": 0,
+      "screenTime": "0:08:36",
+      "character": "Black Lorren"
+    },
+    {
+      "house": null,
+      "season": 2,
+      "numOfScenes": 16,
+      "numOfKills": 0,
+      "screenTime": "0:18:00",
+      "character": "Dagmer Cleftjaw"
+    },
+    {
+      "house": null,
+      "season": 2,
+      "numOfScenes": 10,
+      "numOfKills": 0,
+      "screenTime": "0:03:39",
+      "character": "Hallyne"
+    },
+    {
+      "house": "Targaryen",
+      "season": 2,
+      "numOfScenes": 6,
+      "numOfKills": 0,
+      "screenTime": "0:05:53",
+      "character": "Viserion"
+    },
+    {
+      "house": "Targaryen",
+      "season": 2,
+      "numOfScenes": 6,
+      "numOfKills": 0,
+      "screenTime": "0:05:53",
+      "character": "Rhaegal"
+    },
+    {
+      "house": null,
+      "season": 2,
+      "numOfScenes": 3,
+      "numOfKills": 0,
+      "screenTime": "0:02:13",
+      "character": "Quaithe"
+    },
+    {
+      "house": "Stark",
+      "season": 2,
+      "numOfScenes": 10,
+      "numOfKills": 0,
+      "screenTime": "0:12:21",
+      "character": "Rickon Stark"
+    },
+    {
+      "house": null,
+      "season": 2,
+      "numOfScenes": 2,
+      "numOfKills": 0,
+      "screenTime": "0:02:35",
+      "character": "Winterfell Shepherd"
+    },
+    {
+      "house": null,
+      "season": 2,
+      "numOfScenes": 7,
+      "numOfKills": 0,
+      "screenTime": "0:14:17",
+      "character": "Qhorin Halfhand"
+    },
+    {
+      "house": null,
+      "season": 2,
+      "numOfScenes": 1,
+      "numOfKills": 0,
+      "screenTime": "0:01:32",
+      "character": "Farlen"
+    },
+    {
+      "house": null,
+      "season": 2,
+      "numOfScenes": 14,
+      "numOfKills": 0,
+      "screenTime": "0:22:37",
+      "character": "Ygritte"
+    },
+    {
+      "house": null,
+      "season": 2,
+      "numOfScenes": 2,
+      "numOfKills": 0,
+      "screenTime": "0:02:27",
+      "character": "High Septon"
+    },
+    {
+      "house": null,
+      "season": 2,
+      "numOfScenes": 4,
+      "numOfKills": 0,
+      "screenTime": "0:01:17",
+      "character": "King's Landing Rioter #1"
+    },
+    {
+      "house": null,
+      "season": 2,
+      "numOfScenes": 4,
+      "numOfKills": 0,
+      "screenTime": "0:01:17",
+      "character": "King's Landing Rioter #2"
+    },
+    {
+      "house": null,
+      "season": 2,
+      "numOfScenes": 4,
+      "numOfKills": 0,
+      "screenTime": "0:01:17",
+      "character": "King's Landing Rioter #3"
+    },
+    {
+      "house": null,
+      "season": 2,
+      "numOfScenes": 2,
+      "numOfKills": 0,
+      "screenTime": "0:01:41",
+      "character": "Drennan"
+    },
+    {
+      "house": "Stark",
+      "season": 2,
+      "numOfScenes": 4,
+      "numOfKills": 0,
+      "screenTime": "0:03:00",
+      "character": "Shaggydog"
+    },
+    {
+      "house": null,
+      "season": 2,
+      "numOfScenes": 3,
+      "numOfKills": 0,
+      "screenTime": "0:03:57",
+      "character": "Rickard Karstark"
+    },
+    {
+      "house": null,
+      "season": 2,
+      "numOfScenes": 2,
+      "numOfKills": 0,
+      "screenTime": "0:01:10",
+      "character": "Handmaid"
+    },
+    {
+      "house": null,
+      "season": 2,
+      "numOfScenes": 3,
+      "numOfKills": 0,
+      "screenTime": "0:01:52",
+      "character": "Jacks"
+    },
+    {
+      "house": null,
+      "season": 2,
+      "numOfScenes": 3,
+      "numOfKills": 0,
+      "screenTime": "0:04:58",
+      "character": "Rattleshirt"
+    },
+    {
+      "house": "Lannister",
+      "season": 2,
+      "numOfScenes": 1,
+      "numOfKills": 0,
+      "screenTime": "0:01:47",
+      "character": "Kevan Lannister"
+    },
+    {
+      "house": null,
+      "season": 2,
+      "numOfScenes": 7,
+      "numOfKills": 0,
+      "screenTime": "0:04:28",
+      "character": "Mandon Moore"
+    },
+    {
+      "house": null,
+      "season": 2,
+      "numOfScenes": 6,
+      "numOfKills": 0,
+      "screenTime": "0:03:08",
+      "character": "Ilyn Payne"
+    },
+    {
+      "house": null,
+      "season": 2,
+      "numOfScenes": 9,
+      "numOfKills": 0,
+      "screenTime": "0:02:02",
+      "character": "Captain of the Archers"
+    },
+    {
+      "house": null,
+      "season": 2,
+      "numOfScenes": 1,
+      "numOfKills": 0,
+      "screenTime": "0:00:51",
+      "character": "Septon"
+    },
+    {
+      "house": null,
+      "season": 2,
+      "numOfScenes": 1,
+      "numOfKills": 0,
+      "screenTime": "0:00:24",
+      "character": "Jaqen's Disguise"
+    },
+    {
+      "house": null,
+      "season": 2,
+      "numOfScenes": 1,
+      "numOfKills": 0,
+      "screenTime": "0:02:40",
+      "character": "Khal Drogo"
+    },
+    {
+      "house": null,
+      "season": 2,
+      "numOfScenes": 1,
+      "numOfKills": 0,
+      "screenTime": "0:02:40",
+      "character": "Rhaego"
+    }
+  ],
+  [
+    {
+      "house": null,
+      "season": 3,
+      "numOfScenes": 33,
+      "numOfKills": 1,
+      "screenTime": "0:34:34",
+      "character": "Samwell Tarly"
+    },
+    {
+      "house": null,
+      "season": 3,
+      "numOfScenes": 5,
+      "numOfKills": 1,
+      "screenTime": "0:02:52",
+      "character": "White Walker"
+    },
+    {
+      "house": "Stark",
+      "season": 3,
+      "numOfScenes": 4,
+      "numOfKills": 0,
+      "screenTime": "0:02:04",
+      "character": "Ghost"
+    },
+    {
+      "house": "Mormont",
+      "season": 3,
+      "numOfScenes": 13,
+      "numOfKills": 1,
+      "screenTime": "0:10:21",
+      "character": "Jeor Mormont"
+    },
+    {
+      "house": null,
+      "season": 3,
+      "numOfScenes": 10,
+      "numOfKills": 0,
+      "screenTime": "0:10:25",
+      "character": "Grenn"
+    },
+    {
+      "house": null,
+      "season": 3,
+      "numOfScenes": 10,
+      "numOfKills": 0,
+      "screenTime": "0:10:25",
+      "character": "Eddison Tollett"
+    },
+    {
+      "house": null,
+      "season": 3,
+      "numOfScenes": 12,
+      "numOfKills": 1,
+      "screenTime": "0:09:33",
+      "character": "Rast"
+    },
+    {
+      "house": null,
+      "season": 3,
+      "numOfScenes": 3,
+      "numOfKills": 0,
+      "screenTime": "0:03:31",
+      "character": "Rattleshirt"
+    },
+    {
+      "house": "Stark",
+      "season": 3,
+      "numOfScenes": 37,
+      "numOfKills": 1,
+      "screenTime": "0:43:40",
+      "character": "Jon Snow"
+    },
+    {
+      "house": null,
+      "season": 3,
+      "numOfScenes": 32,
+      "numOfKills": 1,
+      "screenTime": "0:38:31",
+      "character": "Ygritte"
+    },
+    {
+      "house": null,
+      "season": 3,
+      "numOfScenes": 1,
+      "numOfKills": 0,
+      "screenTime": "0:00:53",
+      "character": "Dongo the Giant"
+    },
+    {
+      "house": null,
+      "season": 3,
+      "numOfScenes": 22,
+      "numOfKills": 0,
+      "screenTime": "0:22:59",
+      "character": "Tormund Giantsbane"
+    },
+    {
+      "house": null,
+      "season": 3,
+      "numOfScenes": 5,
+      "numOfKills": 0,
+      "screenTime": "0:09:27",
+      "character": "Mance Rayder"
+    },
+    {
+      "house": null,
+      "season": 3,
+      "numOfScenes": 12,
+      "numOfKills": 0,
+      "screenTime": "0:11:58",
+      "character": "Bronn"
+    },
+    {
+      "house": null,
+      "season": 3,
+      "numOfScenes": 2,
+      "numOfKills": 0,
+      "screenTime": "0:01:02",
+      "character": "Mirelle"
+    },
+    {
+      "house": null,
+      "season": 3,
+      "numOfScenes": 15,
+      "numOfKills": 0,
+      "screenTime": "0:08:31",
+      "character": "Podrick Payne"
+    },
+    {
+      "house": "Lannister",
+      "season": 3,
+      "numOfScenes": 48,
+      "numOfKills": 0,
+      "screenTime": "1:09:06",
+      "character": "Tyrion Lannister"
+    },
+    {
+      "house": ["Lannister", "Baratheon"],
+      "season": 3,
+      "numOfScenes": 28,
+      "numOfKills": 0,
+      "screenTime": "0:40:29",
+      "character": "Cersei Lannister"
+    },
+    {
+      "house": null,
+      "season": 3,
+      "numOfScenes": 3,
+      "numOfKills": 0,
+      "screenTime": "0:01:15",
+      "character": "Meryn Trant"
+    },
+    {
+      "house": null,
+      "season": 3,
+      "numOfScenes": 15,
+      "numOfKills": 0,
+      "screenTime": "0:27:16",
+      "character": "Davos Seaworth"
+    },
+    {
+      "house": null,
+      "season": 3,
+      "numOfScenes": 1,
+      "numOfKills": 0,
+      "screenTime": "0:02:53",
+      "character": "Salladhor Saan"
+    },
+    {
+      "house": "Stark",
+      "season": 3,
+      "numOfScenes": 37,
+      "numOfKills": 1,
+      "screenTime": "0:43:56",
+      "character": "Robb Stark"
+    },
+    {
+      "house": "Bolton",
+      "season": 3,
+      "numOfScenes": 20,
+      "numOfKills": 1,
+      "screenTime": "0:18:33",
+      "character": "Roose Bolton"
+    },
+    {
+      "house": null,
+      "season": 3,
+      "numOfScenes": 6,
+      "numOfKills": 2,
+      "screenTime": "0:06:52",
+      "character": "Rickard Karstark"
+    },
+    {
+      "house": ["Stark", "Tully"],
+      "season": 3,
+      "numOfScenes": 33,
+      "numOfKills": 1,
+      "screenTime": "0:38:33",
+      "character": "Catelyn Stark"
+    },
+    {
+      "house": null,
+      "season": 3,
+      "numOfScenes": 29,
+      "numOfKills": 0,
+      "screenTime": "0:36:58",
+      "character": "Talisa Maegyr"
+    },
+    {
+      "house": null,
+      "season": 3,
+      "numOfScenes": 11,
+      "numOfKills": 0,
+      "screenTime": "0:11:35",
+      "character": "Qyburn"
+    },
+    {
+      "house": "Lannister",
+      "season": 3,
+      "numOfScenes": 16,
+      "numOfKills": 0,
+      "screenTime": "0:36:58",
+      "character": "Tywin Lannister"
+    },
+    {
+      "house": "Stark",
+      "season": 3,
+      "numOfScenes": 38,
+      "numOfKills": 0,
+      "screenTime": "0:39:29",
+      "character": "Sansa Stark"
+    },
+    {
+      "house": null,
+      "season": 3,
+      "numOfScenes": 18,
+      "numOfKills": 0,
+      "screenTime": "0:18:51",
+      "character": "Shae"
+    },
+    {
+      "house": null,
+      "season": 3,
+      "numOfScenes": 10,
+      "numOfKills": 0,
+      "screenTime": "0:14:02",
+      "character": "Petyr Baelish"
+    },
+    {
+      "house": null,
+      "season": 3,
+      "numOfScenes": 5,
+      "numOfKills": 0,
+      "screenTime": "0:04:34",
+      "character": "Ros"
+    },
+    {
+      "house": "Targaryen",
+      "season": 3,
+      "numOfScenes": 10,
+      "numOfKills": 0,
+      "screenTime": "0:08:19",
+      "character": "Drogon"
+    },
+    {
+      "house": "Targaryen",
+      "season": 3,
+      "numOfScenes": 45,
+      "numOfKills": 1,
+      "screenTime": "0:46:00",
+      "character": "Daenerys Targaryen"
+    },
+    {
+      "house": "Mormont",
+      "season": 3,
+      "numOfScenes": 36,
+      "numOfKills": 0,
+      "screenTime": "0:42:41",
+      "character": "Jorah Mormont"
+    },
+    {
+      "house": "Targaryen",
+      "season": 3,
+      "numOfScenes": 5,
+      "numOfKills": 0,
+      "screenTime": "0:05:07",
+      "character": "Viserion"
+    },
+    {
+      "house": "Targaryen",
+      "season": 3,
+      "numOfScenes": 5,
+      "numOfKills": 0,
+      "screenTime": "0:05:07",
+      "character": "Rhaegal"
+    },
+    {
+      "house": "Baratheon",
+      "season": 3,
+      "numOfScenes": 11,
+      "numOfKills": 0,
+      "screenTime": "0:21:01",
+      "character": "Stannis Baratheon"
+    },
+    {
+      "house": null,
+      "season": 3,
+      "numOfScenes": 13,
+      "numOfKills": 0,
+      "screenTime": "0:27:17",
+      "character": "Melisandre"
+    },
+    {
+      "house": "Baratheon",
+      "season": 3,
+      "numOfScenes": 25,
+      "numOfKills": 1,
+      "screenTime": "0:28:05",
+      "character": "Joffrey Baratheon"
+    },
+    {
+      "house": "Tyrell",
+      "season": 3,
+      "numOfScenes": 27,
+      "numOfKills": 0,
+      "screenTime": "0:32:41",
+      "character": "Margaery Tyrell"
+    },
+    {
+      "house": null,
+      "season": 3,
+      "numOfScenes": 3,
+      "numOfKills": 0,
+      "screenTime": "0:02:02",
+      "character": "Margaery's Handmaiden"
+    },
+    {
+      "house": "Tyrell",
+      "season": 3,
+      "numOfScenes": 12,
+      "numOfKills": 0,
+      "screenTime": "0:11:42",
+      "character": "Loras Tyrell"
+    },
+    {
+      "house": null,
+      "season": 3,
+      "numOfScenes": 5,
+      "numOfKills": 0,
+      "screenTime": "0:10:53",
+      "character": "Kraznys mo Nakloz"
+    },
+    {
+      "house": null,
+      "season": 3,
+      "numOfScenes": 25,
+      "numOfKills": 0,
+      "screenTime": "0:31:20",
+      "character": "Missandei"
+    },
+    {
+      "house": null,
+      "season": 3,
+      "numOfScenes": 1,
+      "numOfKills": 0,
+      "screenTime": "0:01:48",
+      "character": "Warlock"
+    },
+    {
+      "house": null,
+      "season": 3,
+      "numOfScenes": 29,
+      "numOfKills": 0,
+      "screenTime": "0:34:58",
+      "character": "Barristan Selmy"
+    },
+    {
+      "house": "Stark",
+      "season": 3,
+      "numOfScenes": 30,
+      "numOfKills": 0,
+      "screenTime": "0:29:28",
+      "character": "Bran Stark"
+    },
+    {
+      "house": null,
+      "season": 3,
+      "numOfScenes": 3,
+      "numOfKills": 0,
+      "screenTime": "0:01:18",
+      "character": "Three-Eyed Raven"
+    },
+    {
+      "house": null,
+      "season": 3,
+      "numOfScenes": 23,
+      "numOfKills": 0,
+      "screenTime": "0:26:03",
+      "character": "Jojen Reed"
+    },
+    {
+      "house": "Stark",
+      "season": 3,
+      "numOfScenes": 11,
+      "numOfKills": 0,
+      "screenTime": "0:16:01",
+      "character": "Rickon Stark"
+    },
+    {
+      "house": "Stark",
+      "season": 3,
+      "numOfScenes": 4,
+      "numOfKills": 0,
+      "screenTime": "0:02:03",
+      "character": "Shaggydog"
+    },
+    {
+      "house": "Stark",
+      "season": 3,
+      "numOfScenes": 13,
+      "numOfKills": 0,
+      "screenTime": "0:12:21",
+      "character": "Summer"
+    },
+    {
+      "house": null,
+      "season": 3,
+      "numOfScenes": 17,
+      "numOfKills": 0,
+      "screenTime": "0:23:33",
+      "character": "Hodor"
+    },
+    {
+      "house": null,
+      "season": 3,
+      "numOfScenes": 16,
+      "numOfKills": 0,
+      "screenTime": "0:18:27",
+      "character": "Osha"
+    },
+    {
+      "house": "Greyjoy",
+      "season": 3,
+      "numOfScenes": 14,
+      "numOfKills": 0,
+      "screenTime": "0:26:45",
+      "character": "Theon Greyjoy"
+    },
+    {
+      "house": "Lannister",
+      "season": 3,
+      "numOfScenes": 32,
+      "numOfKills": 0,
+      "screenTime": "0:44:34",
+      "character": "Jaime Lannister"
+    },
+    {
+      "house": null,
+      "season": 3,
+      "numOfScenes": 21,
+      "numOfKills": 0,
+      "screenTime": "0:33:29",
+      "character": "Brienne of Tarth"
+    },
+    {
+      "house": "Tyrell",
+      "season": 3,
+      "numOfScenes": 19,
+      "numOfKills": 0,
+      "screenTime": "0:21:40",
+      "character": "Olenna Tyrell"
+    },
+    {
+      "house": "Stark",
+      "season": 3,
+      "numOfScenes": 5,
+      "numOfKills": 0,
+      "screenTime": "0:02:39",
+      "character": "Grey Wind"
+    },
+    {
+      "house": null,
+      "season": 3,
+      "numOfScenes": 18,
+      "numOfKills": 0,
+      "screenTime": "0:17:30",
+      "character": "Orell"
+    },
+    {
+      "house": null,
+      "season": 3,
+      "numOfScenes": 18,
+      "numOfKills": 0,
+      "screenTime": "0:23:30",
+      "character": "Meera Reed"
+    },
+    {
+      "house": "Stark",
+      "season": 3,
+      "numOfScenes": 38,
+      "numOfKills": 1,
+      "screenTime": "0:43:32",
+      "character": "Arya Stark"
+    },
+    {
+      "house": null,
+      "season": 3,
+      "numOfScenes": 22,
+      "numOfKills": 0,
+      "screenTime": "0:36:53",
+      "character": "Gendry"
+    },
+    {
+      "house": null,
+      "season": 3,
+      "numOfScenes": 6,
+      "numOfKills": 0,
+      "screenTime": "0:08:44",
+      "character": "Hot Pie"
+    },
+    {
+      "house": null,
+      "season": 3,
+      "numOfScenes": 20,
+      "numOfKills": 0,
+      "screenTime": "0:29:18",
+      "character": "Thoros of Myr"
+    },
+    {
+      "house": null,
+      "season": 3,
+      "numOfScenes": 13,
+      "numOfKills": 0,
+      "screenTime": "0:19:12",
+      "character": "Anguy"
+    },
+    {
+      "house": "Bolton",
+      "season": 3,
+      "numOfScenes": 10,
+      "numOfKills": 1,
+      "screenTime": "0:17:58",
+      "character": "Ramsay Snow"
+    },
+    {
+      "house": null,
+      "season": 3,
+      "numOfScenes": 20,
+      "numOfKills": 2,
+      "screenTime": "0:21:23",
+      "character": "Sandor Clegane"
+    },
+    {
+      "house": null,
+      "season": 3,
+      "numOfScenes": 17,
+      "numOfKills": 0,
+      "screenTime": "0:17:13",
+      "character": "Locke"
+    },
+    {
+      "house": "Tully",
+      "season": 3,
+      "numOfScenes": 1,
+      "numOfKills": 0,
+      "screenTime": "0:02:11",
+      "character": "Hoster Tully"
+    },
+    {
+      "house": "Tully",
+      "season": 3,
+      "numOfScenes": 14,
+      "numOfKills": 0,
+      "screenTime": "0:24:34",
+      "character": "Brynden Tully"
+    },
+    {
+      "house": "Tully",
+      "season": 3,
+      "numOfScenes": 16,
+      "numOfKills": 0,
+      "screenTime": "0:25:25",
+      "character": "Edmure Tully"
+    },
+    {
+      "house": null,
+      "season": 3,
+      "numOfScenes": 6,
+      "numOfKills": 0,
+      "screenTime": "0:10:48",
+      "character": "Grand Maester Pycelle"
+    },
+    {
+      "house": null,
+      "season": 3,
+      "numOfScenes": 14,
+      "numOfKills": 0,
+      "screenTime": "0:25:33",
+      "character": "Lord Varys"
+    },
+    {
+      "house": "Lannister",
+      "season": 3,
+      "numOfScenes": 2,
+      "numOfKills": 0,
+      "screenTime": "0:01:16",
+      "character": "Martyn Lannister"
+    },
+    {
+      "house": "Lannister",
+      "season": 3,
+      "numOfScenes": 2,
+      "numOfKills": 0,
+      "screenTime": "0:01:16",
+      "character": "Willem Lannister"
+    },
+    {
+      "house": null,
+      "season": 3,
+      "numOfScenes": 7,
+      "numOfKills": 1,
+      "screenTime": "0:05:50",
+      "character": "Karl Tanner"
+    },
+    {
+      "house": null,
+      "season": 3,
+      "numOfScenes": 7,
+      "numOfKills": 0,
+      "screenTime": "0:05:43",
+      "character": "Craster"
+    },
+    {
+      "house": null,
+      "season": 3,
+      "numOfScenes": 13,
+      "numOfKills": 0,
+      "screenTime": "0:20:29",
+      "character": "Gilly"
+    },
+    {
+      "house": null,
+      "season": 3,
+      "numOfScenes": 13,
+      "numOfKills": 0,
+      "screenTime": "0:20:29",
+      "character": "Baby Sam"
+    },
+    {
+      "house": null,
+      "season": 3,
+      "numOfScenes": 3,
+      "numOfKills": 0,
+      "screenTime": "0:06:31",
+      "character": "Greizhen mo Ullhor"
+    },
+    {
+      "house": null,
+      "season": 3,
+      "numOfScenes": 1,
+      "numOfKills": 0,
+      "screenTime": "0:01:14",
+      "character": "Marei"
+    },
+    {
+      "house": null,
+      "season": 3,
+      "numOfScenes": 1,
+      "numOfKills": 0,
+      "screenTime": "0:01:14",
+      "character": "Kayla"
+    },
+    {
+      "house": null,
+      "season": 3,
+      "numOfScenes": 11,
+      "numOfKills": 0,
+      "screenTime": "0:17:26",
+      "character": "Beric Dondarrion"
+    },
+    {
+      "house": "Baratheon",
+      "season": 3,
+      "numOfScenes": 2,
+      "numOfKills": 0,
+      "screenTime": "0:03:22",
+      "character": "Selyse Baratheon"
+    },
+    {
+      "house": "Baratheon",
+      "season": 3,
+      "numOfScenes": 3,
+      "numOfKills": 0,
+      "screenTime": "0:04:59",
+      "character": "Shireen Baratheon"
+    },
+    {
+      "house": null,
+      "season": 3,
+      "numOfScenes": 12,
+      "numOfKills": 0,
+      "screenTime": "0:15:07",
+      "character": "Grey Worm"
+    },
+    {
+      "house": null,
+      "season": 3,
+      "numOfScenes": 3,
+      "numOfKills": 0,
+      "screenTime": "0:01:42",
+      "character": "Olyvar"
+    },
+    {
+      "house": "Frey",
+      "season": 3,
+      "numOfScenes": 4,
+      "numOfKills": 1,
+      "screenTime": "0:08:16",
+      "character": "Black Walder Rivers"
+    },
+    {
+      "house": "Frey",
+      "season": 3,
+      "numOfScenes": 7,
+      "numOfKills": 1,
+      "screenTime": "0:10:22",
+      "character": "Lothar Frey"
+    },
+    {
+      "house": null,
+      "season": 3,
+      "numOfScenes": 1,
+      "numOfKills": 0,
+      "screenTime": "0:00:04",
+      "character": "Handmaid"
+    },
+    {
+      "house": null,
+      "season": 3,
+      "numOfScenes": 2,
+      "numOfKills": 0,
+      "screenTime": "0:04:12",
+      "character": "Razdal mo Eraz"
+    },
+    {
+      "house": null,
+      "season": 3,
+      "numOfScenes": 2,
+      "numOfKills": 0,
+      "screenTime": "0:05:23",
+      "character": "Myranda"
+    },
+    {
+      "house": null,
+      "season": 3,
+      "numOfScenes": 4,
+      "numOfKills": 0,
+      "screenTime": "0:02:52",
+      "character": "Steelshanks Walton"
+    },
+    {
+      "house": null,
+      "season": 3,
+      "numOfScenes": 3,
+      "numOfKills": 0,
+      "screenTime": "0:02:18",
+      "character": "The Bear"
+    },
+    {
+      "house": null,
+      "season": 3,
+      "numOfScenes": 3,
+      "numOfKills": 0,
+      "screenTime": "0:05:14",
+      "character": "Mero"
+    },
+    {
+      "house": null,
+      "season": 3,
+      "numOfScenes": 3,
+      "numOfKills": 0,
+      "screenTime": "0:05:14",
+      "character": "Prendahl na Ghezn"
+    },
+    {
+      "house": null,
+      "season": 3,
+      "numOfScenes": 14,
+      "numOfKills": 2,
+      "screenTime": "0:16:08",
+      "character": "Daario Naharis"
+    },
+    {
+      "house": null,
+      "season": 3,
+      "numOfScenes": 1,
+      "numOfKills": 0,
+      "screenTime": "0:03:05",
+      "character": "High Septon"
+    },
+    {
+      "house": "Frey",
+      "season": 3,
+      "numOfScenes": 15,
+      "numOfKills": 1,
+      "screenTime": "0:16:45",
+      "character": "Walder Frey"
+    },
+    {
+      "house": null,
+      "season": 3,
+      "numOfScenes": 9,
+      "numOfKills": 0,
+      "screenTime": "0:09:57",
+      "character": "Joyeuse Erenford"
+    },
+    {
+      "house": null,
+      "season": 3,
+      "numOfScenes": 1,
+      "numOfKills": 0,
+      "screenTime": "0:02:37",
+      "character": "Septon"
+    },
+    {
+      "house": "Frey",
+      "season": 3,
+      "numOfScenes": 6,
+      "numOfKills": 0,
+      "screenTime": "0:06:19",
+      "character": "Roslin Frey"
+    },
+    {
+      "house": "Greyjoy",
+      "season": 3,
+      "numOfScenes": 1,
+      "numOfKills": 0,
+      "screenTime": "0:02:43",
+      "character": "Balon Greyjoy"
+    },
+    {
+      "house": "Greyjoy",
+      "season": 3,
+      "numOfScenes": 2,
+      "numOfKills": 0,
+      "screenTime": "0:03:09",
+      "character": "Yara Greyjoy"
+    },
+    {
+      "house": "Targaryen",
+      "season": 3,
+      "numOfScenes": 1,
+      "numOfKills": 0,
+      "screenTime": "0:02:47",
+      "character": "Maester Aemon"
+    },
+    {
+      "house": null,
+      "season": 3,
+      "numOfScenes": 1,
+      "numOfKills": 0,
+      "screenTime": "0:00:13",
+      "character": "Todder"
+    },
+    {
+      "house": null,
+      "season": 3,
+      "numOfScenes": 1,
+      "numOfKills": 0,
+      "screenTime": "0:00:41",
+      "character": "Pypar"
+    }
+  ],
+  [
+    {
+      "house": "Lannister",
+      "season": 4,
+      "numOfScenes": 56,
+      "numOfKills": 0,
+      "screenTime": "1:08:21",
+      "character": "Tywin Lannister"
+    },
+    {
+      "house": "Lannister",
+      "season": 4,
+      "numOfScenes": 55,
+      "numOfKills": 0,
+      "screenTime": "1:11:09",
+      "character": "Jaime Lannister"
+    },
+    {
+      "house": "Lannister",
+      "season": 4,
+      "numOfScenes": 74,
+      "numOfKills": 2,
+      "screenTime": "1:31:20",
+      "character": "Tyrion Lannister"
+    },
+    {
+      "house": null,
+      "season": 4,
+      "numOfScenes": 23,
+      "numOfKills": 0,
+      "screenTime": "0:34:16",
+      "character": "Podrick Payne"
+    },
+    {
+      "house": null,
+      "season": 4,
+      "numOfScenes": 11,
+      "numOfKills": 0,
+      "screenTime": "0:15:30",
+      "character": "Bronn"
+    },
+    {
+      "house": "Martell",
+      "season": 4,
+      "numOfScenes": 38,
+      "numOfKills": 0,
+      "screenTime": "0:55:51",
+      "character": "Oberyn Martell"
+    },
+    {
+      "house": null,
+      "season": 4,
+      "numOfScenes": 7,
+      "numOfKills": 0,
+      "screenTime": "0:07:45",
+      "character": "Olyvar"
+    },
+    {
+      "house": "Martell",
+      "season": 4,
+      "numOfScenes": 20,
+      "numOfKills": 0,
+      "screenTime": "0:15:50",
+      "character": "Ellaria Sand"
+    },
+    {
+      "house": null,
+      "season": 4,
+      "numOfScenes": 4,
+      "numOfKills": 0,
+      "screenTime": "0:05:13",
+      "character": "Marei"
+    },
+    {
+      "house": "Targaryen",
+      "season": 4,
+      "numOfScenes": 39,
+      "numOfKills": 0,
+      "screenTime": "0:41:30",
+      "character": "Daenerys Targaryen"
+    },
+    {
+      "house": "Targaryen",
+      "season": 4,
+      "numOfScenes": 3,
+      "numOfKills": 0,
+      "screenTime": "0:02:14",
+      "character": "Drogon"
+    },
+    {
+      "house": "Targaryen",
+      "season": 4,
+      "numOfScenes": 3,
+      "numOfKills": 0,
+      "screenTime": "0:04:02",
+      "character": "Viserion"
+    },
+    {
+      "house": "Targaryen",
+      "season": 4,
+      "numOfScenes": 3,
+      "numOfKills": 0,
+      "screenTime": "0:04:02",
+      "character": "Rhaegal"
+    },
+    {
+      "house": "Mormont",
+      "season": 4,
+      "numOfScenes": 23,
+      "numOfKills": 0,
+      "screenTime": "0:27:14",
+      "character": "Jorah Mormont"
+    },
+    {
+      "house": null,
+      "season": 4,
+      "numOfScenes": 29,
+      "numOfKills": 0,
+      "screenTime": "0:32:22",
+      "character": "Missandei"
+    },
+    {
+      "house": null,
+      "season": 4,
+      "numOfScenes": 24,
+      "numOfKills": 0,
+      "screenTime": "0:27:13",
+      "character": "Barristan Selmy"
+    },
+    {
+      "house": null,
+      "season": 4,
+      "numOfScenes": 15,
+      "numOfKills": 1,
+      "screenTime": "0:14:00",
+      "character": "Daario Naharis"
+    },
+    {
+      "house": null,
+      "season": 4,
+      "numOfScenes": 19,
+      "numOfKills": 0,
+      "screenTime": "0:25:58",
+      "character": "Grey Worm"
+    },
+    {
+      "house": null,
+      "season": 4,
+      "numOfScenes": 13,
+      "numOfKills": 0,
+      "screenTime": "0:14:44",
+      "character": "Shae"
+    },
+    {
+      "house": "Stark",
+      "season": 4,
+      "numOfScenes": 53,
+      "numOfKills": 0,
+      "screenTime": "0:52:10",
+      "character": "Sansa Stark"
+    },
+    {
+      "house": null,
+      "season": 4,
+      "numOfScenes": 3,
+      "numOfKills": 0,
+      "screenTime": "0:00:35",
+      "character": "Handmaid"
+    },
+    {
+      "house": null,
+      "season": 4,
+      "numOfScenes": 4,
+      "numOfKills": 0,
+      "screenTime": "0:03:13",
+      "character": "Qyburn"
+    },
+    {
+      "house": ["Lannister", "Baratheon"],
+      "season": 4,
+      "numOfScenes": 74,
+      "numOfKills": 0,
+      "screenTime": "1:18:14",
+      "character": "Cersei Lannister"
+    },
+    {
+      "house": null,
+      "season": 4,
+      "numOfScenes": 22,
+      "numOfKills": 3,
+      "screenTime": "0:17:30",
+      "character": "Ygritte"
+    },
+    {
+      "house": null,
+      "season": 4,
+      "numOfScenes": 18,
+      "numOfKills": 1,
+      "screenTime": "0:16:38",
+      "character": "Tormund Giantsbane"
+    },
+    {
+      "house": null,
+      "season": 4,
+      "numOfScenes": 15,
+      "numOfKills": 3,
+      "screenTime": "0:12:28",
+      "character": "Styr"
+    },
+    {
+      "house": null,
+      "season": 4,
+      "numOfScenes": 10,
+      "numOfKills": 0,
+      "screenTime": "0:08:44",
+      "character": "Thenn Warg"
+    },
+    {
+      "house": null,
+      "season": 4,
+      "numOfScenes": 36,
+      "numOfKills": 1,
+      "screenTime": "0:37:53",
+      "character": "Samwell Tarly"
+    },
+    {
+      "house": null,
+      "season": 4,
+      "numOfScenes": 1,
+      "numOfKills": 0,
+      "screenTime": "0:00:25",
+      "character": "Ser Endrew Tarth"
+    },
+    {
+      "house": "Stark",
+      "season": 4,
+      "numOfScenes": 71,
+      "numOfKills": 2,
+      "screenTime": "1:03:38",
+      "character": "Jon Snow"
+    },
+    {
+      "house": null,
+      "season": 4,
+      "numOfScenes": 19,
+      "numOfKills": 0,
+      "screenTime": "0:17:28",
+      "character": "Alliser Thorne"
+    },
+    {
+      "house": null,
+      "season": 4,
+      "numOfScenes": 19,
+      "numOfKills": 0,
+      "screenTime": "0:17:20",
+      "character": "Janos Slynt"
+    },
+    {
+      "house": "Targaryen",
+      "season": 4,
+      "numOfScenes": 6,
+      "numOfKills": 0,
+      "screenTime": "0:09:35",
+      "character": "Maester Aemon"
+    },
+    {
+      "house": null,
+      "season": 4,
+      "numOfScenes": 4,
+      "numOfKills": 0,
+      "screenTime": "0:06:13",
+      "character": "Othell Yarwyck"
+    },
+    {
+      "house": "Tyrell",
+      "season": 4,
+      "numOfScenes": 24,
+      "numOfKills": 1,
+      "screenTime": "0:19:42",
+      "character": "Olenna Tyrell"
+    },
+    {
+      "house": "Tyrell",
+      "season": 4,
+      "numOfScenes": 47,
+      "numOfKills": 0,
+      "screenTime": "0:41:33",
+      "character": "Margaery Tyrell"
+    },
+    {
+      "house": null,
+      "season": 4,
+      "numOfScenes": 20,
+      "numOfKills": 0,
+      "screenTime": "0:25:36",
+      "character": "Brienne of Tarth"
+    },
+    {
+      "house": "Baratheon",
+      "season": 4,
+      "numOfScenes": 41,
+      "numOfKills": 0,
+      "screenTime": "0:29:20",
+      "character": "Joffrey Baratheon"
+    },
+    {
+      "house": null,
+      "season": 4,
+      "numOfScenes": 8,
+      "numOfKills": 0,
+      "screenTime": "0:05:30",
+      "character": "Meryn Trant"
+    },
+    {
+      "house": null,
+      "season": 4,
+      "numOfScenes": 10,
+      "numOfKills": 0,
+      "screenTime": "0:06:35",
+      "character": "Dontos Hollard"
+    },
+    {
+      "house": null,
+      "season": 4,
+      "numOfScenes": 26,
+      "numOfKills": 2,
+      "screenTime": "0:38:48",
+      "character": "Sandor Clegane"
+    },
+    {
+      "house": "Stark",
+      "season": 4,
+      "numOfScenes": 31,
+      "numOfKills": 2,
+      "screenTime": "0:41:50",
+      "character": "Arya Stark"
+    },
+    {
+      "house": null,
+      "season": 4,
+      "numOfScenes": 5,
+      "numOfKills": 0,
+      "screenTime": "0:07:59",
+      "character": "Polliver"
+    },
+    {
+      "house": "Bolton",
+      "season": 4,
+      "numOfScenes": 15,
+      "numOfKills": 1,
+      "screenTime": "0:18:34",
+      "character": "Ramsay Snow"
+    },
+    {
+      "house": null,
+      "season": 4,
+      "numOfScenes": 5,
+      "numOfKills": 0,
+      "screenTime": "0:02:53",
+      "character": "Myranda"
+    },
+    {
+      "house": "Greyjoy",
+      "season": 4,
+      "numOfScenes": 12,
+      "numOfKills": 0,
+      "screenTime": "0:19:50",
+      "character": "Theon Greyjoy"
+    },
+    {
+      "house": "Bolton",
+      "season": 4,
+      "numOfScenes": 6,
+      "numOfKills": 0,
+      "screenTime": "0:08:52",
+      "character": "Roose Bolton"
+    },
+    {
+      "house": null,
+      "season": 4,
+      "numOfScenes": 17,
+      "numOfKills": 0,
+      "screenTime": "0:16:29",
+      "character": "Locke"
+    },
+    {
+      "house": ["Bolton", "Frey"],
+      "season": 4,
+      "numOfScenes": 1,
+      "numOfKills": 0,
+      "screenTime": "0:00:36",
+      "character": "Walda Bolton"
+    },
+    {
+      "house": null,
+      "season": 4,
+      "numOfScenes": 17,
+      "numOfKills": 0,
+      "screenTime": "0:22:12",
+      "character": "Lord Varys"
+    },
+    {
+      "house": "Tyrell",
+      "season": 4,
+      "numOfScenes": 35,
+      "numOfKills": 0,
+      "screenTime": "0:39:23",
+      "character": "Mace Tyrell"
+    },
+    {
+      "house": "Baratheon",
+      "season": 4,
+      "numOfScenes": 35,
+      "numOfKills": 0,
+      "screenTime": "0:28:06",
+      "character": "Tommen Baratheon"
+    },
+    {
+      "house": null,
+      "season": 4,
+      "numOfScenes": 19,
+      "numOfKills": 0,
+      "screenTime": "0:20:46",
+      "character": "Grand Maester Pycelle"
+    },
+    {
+      "house": null,
+      "season": 4,
+      "numOfScenes": 7,
+      "numOfKills": 1,
+      "screenTime": "0:09:15",
+      "character": "Melisandre"
+    },
+    {
+      "house": "Baratheon",
+      "season": 4,
+      "numOfScenes": 11,
+      "numOfKills": 0,
+      "screenTime": "0:14:38",
+      "character": "Stannis Baratheon"
+    },
+    {
+      "house": null,
+      "season": 4,
+      "numOfScenes": 12,
+      "numOfKills": 0,
+      "screenTime": "0:17:01",
+      "character": "Davos Seaworth"
+    },
+    {
+      "house": "Baratheon",
+      "season": 4,
+      "numOfScenes": 6,
+      "numOfKills": 0,
+      "screenTime": "0:07:49",
+      "character": "Selyse Baratheon"
+    },
+    {
+      "house": "Baratheon",
+      "season": 4,
+      "numOfScenes": 3,
+      "numOfKills": 0,
+      "screenTime": "0:04:35",
+      "character": "Shireen Baratheon"
+    },
+    {
+      "house": "Stark",
+      "season": 4,
+      "numOfScenes": 8,
+      "numOfKills": 0,
+      "screenTime": "0:08:01",
+      "character": "Summer"
+    },
+    {
+      "house": "Stark",
+      "season": 4,
+      "numOfScenes": 28,
+      "numOfKills": 0,
+      "screenTime": "0:23:47",
+      "character": "Bran Stark"
+    },
+    {
+      "house": null,
+      "season": 4,
+      "numOfScenes": 24,
+      "numOfKills": 1,
+      "screenTime": "0:19:41",
+      "character": "Hodor"
+    },
+    {
+      "house": null,
+      "season": 4,
+      "numOfScenes": 21,
+      "numOfKills": 0,
+      "screenTime": "0:18:58",
+      "character": "Jojen Reed"
+    },
+    {
+      "house": null,
+      "season": 4,
+      "numOfScenes": 23,
+      "numOfKills": 1,
+      "screenTime": "0:21:45",
+      "character": "Meera Reed"
+    },
+    {
+      "house": null,
+      "season": 4,
+      "numOfScenes": 2,
+      "numOfKills": 0,
+      "screenTime": "0:01:56",
+      "character": "Three-Eyed Raven"
+    },
+    {
+      "house": "Stark",
+      "season": 4,
+      "numOfScenes": 1,
+      "numOfKills": 0,
+      "screenTime": "0:00:34",
+      "character": "Eddard Stark"
+    },
+    {
+      "house": null,
+      "season": 4,
+      "numOfScenes": 1,
+      "numOfKills": 0,
+      "screenTime": "0:00:34",
+      "character": "Wight Wildling Girl"
+    },
+    {
+      "house": null,
+      "season": 4,
+      "numOfScenes": 3,
+      "numOfKills": 0,
+      "screenTime": "0:03:02",
+      "character": "White Walker"
+    },
+    {
+      "house": null,
+      "season": 4,
+      "numOfScenes": 11,
+      "numOfKills": 0,
+      "screenTime": "0:02:57",
+      "character": "High Septon"
+    },
+    {
+      "house": "Tyrell",
+      "season": 4,
+      "numOfScenes": 12,
+      "numOfKills": 0,
+      "screenTime": "0:18:56",
+      "character": "Loras Tyrell"
+    },
+    {
+      "house": null,
+      "season": 4,
+      "numOfScenes": 1,
+      "numOfKills": 0,
+      "screenTime": "0:00:15",
+      "character": "Kayla"
+    },
+    {
+      "house": null,
+      "season": 4,
+      "numOfScenes": 3,
+      "numOfKills": 0,
+      "screenTime": "0:00:23",
+      "character": "Musician #1"
+    },
+    {
+      "house": null,
+      "season": 4,
+      "numOfScenes": 3,
+      "numOfKills": 0,
+      "screenTime": "0:00:23",
+      "character": "Musician #2"
+    },
+    {
+      "house": null,
+      "season": 4,
+      "numOfScenes": 3,
+      "numOfKills": 0,
+      "screenTime": "0:00:23",
+      "character": "Musician #3"
+    },
+    {
+      "house": null,
+      "season": 4,
+      "numOfScenes": 1,
+      "numOfKills": 0,
+      "screenTime": "0:04:32",
+      "character": "King Joffrey Baratheon Dwarf"
+    },
+    {
+      "house": null,
+      "season": 4,
+      "numOfScenes": 1,
+      "numOfKills": 0,
+      "screenTime": "0:04:32",
+      "character": "King Stannis Baratheon Dwarf"
+    },
+    {
+      "house": null,
+      "season": 4,
+      "numOfScenes": 1,
+      "numOfKills": 0,
+      "screenTime": "0:04:32",
+      "character": "King Renly Baratheon Dwarf"
+    },
+    {
+      "house": null,
+      "season": 4,
+      "numOfScenes": 1,
+      "numOfKills": 0,
+      "screenTime": "0:04:32",
+      "character": "King Robb Stark Dwarf"
+    },
+    {
+      "house": null,
+      "season": 4,
+      "numOfScenes": 18,
+      "numOfKills": 2,
+      "screenTime": "0:26:23",
+      "character": "Petyr Baelish"
+    },
+    {
+      "house": null,
+      "season": 4,
+      "numOfScenes": 1,
+      "numOfKills": 0,
+      "screenTime": "0:00:22",
+      "character": "Night's Watchman"
+    },
+    {
+      "house": null,
+      "season": 4,
+      "numOfScenes": 12,
+      "numOfKills": 0,
+      "screenTime": "0:12:00",
+      "character": "Gilly"
+    },
+    {
+      "house": null,
+      "season": 4,
+      "numOfScenes": 11,
+      "numOfKills": 0,
+      "screenTime": "0:09:40",
+      "character": "Baby Sam"
+    },
+    {
+      "house": null,
+      "season": 4,
+      "numOfScenes": 16,
+      "numOfKills": 1,
+      "screenTime": "0:13:28",
+      "character": "Olly"
+    },
+    {
+      "house": null,
+      "season": 4,
+      "numOfScenes": 13,
+      "numOfKills": 0,
+      "screenTime": "0:15:39",
+      "character": "Pypar"
+    },
+    {
+      "house": null,
+      "season": 4,
+      "numOfScenes": 30,
+      "numOfKills": 0,
+      "screenTime": "0:19:35",
+      "character": "Eddison Tollett"
+    },
+    {
+      "house": null,
+      "season": 4,
+      "numOfScenes": 34,
+      "numOfKills": 1,
+      "screenTime": "0:23:07",
+      "character": "Grenn"
+    },
+    {
+      "house": null,
+      "season": 4,
+      "numOfScenes": 4,
+      "numOfKills": 0,
+      "screenTime": "0:06:22",
+      "character": "Hizdahr zo Loraq"
+    },
+    {
+      "house": null,
+      "season": 4,
+      "numOfScenes": 2,
+      "numOfKills": 0,
+      "screenTime": "0:01:54",
+      "character": "Mossador"
+    },
+    {
+      "house": null,
+      "season": 4,
+      "numOfScenes": 1,
+      "numOfKills": 0,
+      "screenTime": "0:00:46",
+      "character": "Great Master #1"
+    },
+    {
+      "house": null,
+      "season": 4,
+      "numOfScenes": 7,
+      "numOfKills": 0,
+      "screenTime": "0:10:57",
+      "character": "Karl Tanner"
+    },
+    {
+      "house": null,
+      "season": 4,
+      "numOfScenes": 9,
+      "numOfKills": 0,
+      "screenTime": "0:10:11",
+      "character": "Rast"
+    },
+    {
+      "house": "Stark",
+      "season": 4,
+      "numOfScenes": 6,
+      "numOfKills": 1,
+      "screenTime": "0:04:28",
+      "character": "Ghost"
+    },
+    {
+      "house": null,
+      "season": 4,
+      "numOfScenes": 1,
+      "numOfKills": 0,
+      "screenTime": "0:00:52",
+      "character": "The Night King"
+    },
+    {
+      "house": null,
+      "season": 4,
+      "numOfScenes": 2,
+      "numOfKills": 0,
+      "screenTime": "0:01:13",
+      "character": "Donnel Waynwood"
+    },
+    {
+      "house": null,
+      "season": 4,
+      "numOfScenes": 4,
+      "numOfKills": 0,
+      "screenTime": "0:05:47",
+      "character": "Robin Arryn"
+    },
+    {
+      "house": ["Arryn", "Tully"],
+      "season": 4,
+      "numOfScenes": 6,
+      "numOfKills": 0,
+      "screenTime": "0:11:57",
+      "character": "Lysa Arryn"
+    },
+    {
+      "house": null,
+      "season": 4,
+      "numOfScenes": 1,
+      "numOfKills": 0,
+      "screenTime": "0:04:23",
+      "character": "Tycho Nestoris"
+    },
+    {
+      "house": null,
+      "season": 4,
+      "numOfScenes": 2,
+      "numOfKills": 0,
+      "screenTime": "0:02:25",
+      "character": "Salladhor Saan"
+    },
+    {
+      "house": null,
+      "season": 4,
+      "numOfScenes": 2,
+      "numOfKills": 0,
+      "screenTime": "0:02:25",
+      "character": "Lhara"
+    },
+    {
+      "house": "Greyjoy",
+      "season": 4,
+      "numOfScenes": 9,
+      "numOfKills": 0,
+      "screenTime": "0:04:21",
+      "character": "Yara Greyjoy"
+    },
+    {
+      "house": null,
+      "season": 4,
+      "numOfScenes": 1,
+      "numOfKills": 0,
+      "screenTime": "0:03:07",
+      "character": "Manservant"
+    },
+    {
+      "house": null,
+      "season": 4,
+      "numOfScenes": 7,
+      "numOfKills": 1,
+      "screenTime": "0:08:03",
+      "character": "Gregor Clegane"
+    },
+    {
+      "house": null,
+      "season": 4,
+      "numOfScenes": 1,
+      "numOfKills": 0,
+      "screenTime": "0:00:07",
+      "character": "Biter"
+    },
+    {
+      "house": null,
+      "season": 4,
+      "numOfScenes": 1,
+      "numOfKills": 0,
+      "screenTime": "0:00:55",
+      "character": "Rorge"
+    },
+    {
+      "house": null,
+      "season": 4,
+      "numOfScenes": 2,
+      "numOfKills": 0,
+      "screenTime": "0:03:31",
+      "character": "Hot Pie"
+    },
+    {
+      "house": null,
+      "season": 4,
+      "numOfScenes": 2,
+      "numOfKills": 0,
+      "screenTime": "0:03:08",
+      "character": "Kegs"
+    },
+    {
+      "house": null,
+      "season": 4,
+      "numOfScenes": 3,
+      "numOfKills": 0,
+      "screenTime": "0:08:18",
+      "character": "Yohn Royce"
+    },
+    {
+      "house": null,
+      "season": 4,
+      "numOfScenes": 1,
+      "numOfKills": 0,
+      "screenTime": "0:00:45",
+      "character": "Little Bird"
+    },
+    {
+      "house": null,
+      "season": 4,
+      "numOfScenes": 15,
+      "numOfKills": 3,
+      "screenTime": "0:04:34",
+      "character": "Mag the Mighty"
+    },
+    {
+      "house": null,
+      "season": 4,
+      "numOfScenes": 11,
+      "numOfKills": 0,
+      "screenTime": "0:03:17",
+      "character": "Dongo the Giant"
+    },
+    {
+      "house": null,
+      "season": 4,
+      "numOfScenes": 4,
+      "numOfKills": 0,
+      "screenTime": "0:09:38",
+      "character": "Mance Rayder"
+    },
+    {
+      "house": null,
+      "season": 4,
+      "numOfScenes": 3,
+      "numOfKills": 0,
+      "screenTime": "0:02:56",
+      "character": "Leaf"
+    },
+    {
+      "house": null,
+      "season": 4,
+      "numOfScenes": 1,
+      "numOfKills": 0,
+      "screenTime": "0:01:01",
+      "character": "Ternesio Terys"
+    }
+  ],
+  [
+    {
+      "house": "Lannister",
+      "season": 5,
+      "numOfScenes": 2,
+      "numOfKills": 0,
+      "screenTime": "0:04:10",
+      "character": "Young Cersei Lannister"
+    },
+    {
+      "house": null,
+      "season": 5,
+      "numOfScenes": 1,
+      "numOfKills": 0,
+      "screenTime": "0:02:33",
+      "character": "Maggy"
+    },
+    {
+      "house": ["Lannister", "Baratheon"],
+      "season": 5,
+      "numOfScenes": 48,
+      "numOfKills": 0,
+      "screenTime": "1:05:27",
+      "character": "Cersei Lannister"
+    },
+    {
+      "house": null,
+      "season": 5,
+      "numOfScenes": 15,
+      "numOfKills": 0,
+      "screenTime": "0:14:37",
+      "character": "Meryn Trant"
+    },
+    {
+      "house": null,
+      "season": 5,
+      "numOfScenes": 7,
+      "numOfKills": 0,
+      "screenTime": "0:04:30",
+      "character": "High Septon"
+    },
+    {
+      "house": "Tyrell",
+      "season": 5,
+      "numOfScenes": 13,
+      "numOfKills": 0,
+      "screenTime": "0:18:11",
+      "character": "Margaery Tyrell"
+    },
+    {
+      "house": "Lannister",
+      "season": 5,
+      "numOfScenes": 1,
+      "numOfKills": 0,
+      "screenTime": "0:02:16",
+      "character": "Tywin Lannister"
+    },
+    {
+      "house": "Lannister",
+      "season": 5,
+      "numOfScenes": 25,
+      "numOfKills": 0,
+      "screenTime": "0:31:29",
+      "character": "Jaime Lannister"
+    },
+    {
+      "house": "Lannister",
+      "season": 5,
+      "numOfScenes": 47,
+      "numOfKills": 0,
+      "screenTime": "1:14:29",
+      "character": "Tyrion Lannister"
+    },
+    {
+      "house": null,
+      "season": 5,
+      "numOfScenes": 11,
+      "numOfKills": 0,
+      "screenTime": "0:14:36",
+      "character": "Lord Varys"
+    },
+    {
+      "house": null,
+      "season": 5,
+      "numOfScenes": 3,
+      "numOfKills": 0,
+      "screenTime": "0:02:48",
+      "character": "Vala"
+    },
+    {
+      "house": "Targaryen",
+      "season": 5,
+      "numOfScenes": 48,
+      "numOfKills": 1,
+      "screenTime": "1:02:47",
+      "character": "Daenerys Targaryen"
+    },
+    {
+      "house": null,
+      "season": 5,
+      "numOfScenes": 14,
+      "numOfKills": 0,
+      "screenTime": "0:15:11",
+      "character": "Barristan Selmy"
+    },
+    {
+      "house": null,
+      "season": 5,
+      "numOfScenes": 20,
+      "numOfKills": 0,
+      "screenTime": "0:21:35",
+      "character": "Grey Worm"
+    },
+    {
+      "house": null,
+      "season": 5,
+      "numOfScenes": 5,
+      "numOfKills": 1,
+      "screenTime": "0:06:21",
+      "character": "Mossador"
+    },
+    {
+      "house": null,
+      "season": 5,
+      "numOfScenes": 29,
+      "numOfKills": 0,
+      "screenTime": "0:39:08",
+      "character": "Missandei"
+    },
+    {
+      "house": "Stark",
+      "season": 5,
+      "numOfScenes": 76,
+      "numOfKills": 3,
+      "screenTime": "1:24:26",
+      "character": "Jon Snow"
+    },
+    {
+      "house": null,
+      "season": 5,
+      "numOfScenes": 23,
+      "numOfKills": 1,
+      "screenTime": "0:28:19",
+      "character": "Olly"
+    },
+    {
+      "house": null,
+      "season": 5,
+      "numOfScenes": 38,
+      "numOfKills": 0,
+      "screenTime": "0:45:42",
+      "character": "Samwell Tarly"
+    },
+    {
+      "house": null,
+      "season": 5,
+      "numOfScenes": 21,
+      "numOfKills": 0,
+      "screenTime": "0:20:11",
+      "character": "Gilly"
+    },
+    {
+      "house": "Stark",
+      "season": 5,
+      "numOfScenes": 2,
+      "numOfKills": 0,
+      "screenTime": "0:00:58",
+      "character": "Ghost"
+    },
+    {
+      "house": null,
+      "season": 5,
+      "numOfScenes": 19,
+      "numOfKills": 0,
+      "screenTime": "0:21:37",
+      "character": "Alliser Thorne"
+    },
+    {
+      "house": null,
+      "season": 5,
+      "numOfScenes": 7,
+      "numOfKills": 0,
+      "screenTime": "0:12:57",
+      "character": "Janos Slynt"
+    },
+    {
+      "house": null,
+      "season": 5,
+      "numOfScenes": 6,
+      "numOfKills": 0,
+      "screenTime": "0:06:01",
+      "character": "Baby Sam"
+    },
+    {
+      "house": null,
+      "season": 5,
+      "numOfScenes": 24,
+      "numOfKills": 1,
+      "screenTime": "0:22:12",
+      "character": "Melisandre"
+    },
+    {
+      "house": "Baratheon",
+      "season": 5,
+      "numOfScenes": 39,
+      "numOfKills": 2,
+      "screenTime": "0:42:54",
+      "character": "Stannis Baratheon"
+    },
+    {
+      "house": null,
+      "season": 5,
+      "numOfScenes": 19,
+      "numOfKills": 0,
+      "screenTime": "0:24:12",
+      "character": "Davos Seaworth"
+    },
+    {
+      "house": null,
+      "season": 5,
+      "numOfScenes": 2,
+      "numOfKills": 0,
+      "screenTime": "0:01:14",
+      "character": "Robin Arryn"
+    },
+    {
+      "house": null,
+      "season": 5,
+      "numOfScenes": 16,
+      "numOfKills": 0,
+      "screenTime": "0:25:21",
+      "character": "Petyr Baelish"
+    },
+    {
+      "house": "Stark",
+      "season": 5,
+      "numOfScenes": 40,
+      "numOfKills": 0,
+      "screenTime": "0:48:39",
+      "character": "Sansa Stark"
+    },
+    {
+      "house": null,
+      "season": 5,
+      "numOfScenes": 2,
+      "numOfKills": 0,
+      "screenTime": "0:01:14",
+      "character": "Yohn Royce"
+    },
+    {
+      "house": null,
+      "season": 5,
+      "numOfScenes": 13,
+      "numOfKills": 0,
+      "screenTime": "0:15:12",
+      "character": "Podrick Payne"
+    },
+    {
+      "house": null,
+      "season": 5,
+      "numOfScenes": 14,
+      "numOfKills": 2,
+      "screenTime": "0:19:23",
+      "character": "Brienne of Tarth"
+    },
+    {
+      "house": "Tyrell",
+      "season": 5,
+      "numOfScenes": 8,
+      "numOfKills": 0,
+      "screenTime": "0:08:50",
+      "character": "Loras Tyrell"
+    },
+    {
+      "house": "Tyrell",
+      "season": 5,
+      "numOfScenes": 10,
+      "numOfKills": 0,
+      "screenTime": "0:09:20",
+      "character": "Mace Tyrell"
+    },
+    {
+      "house": "Baratheon",
+      "season": 5,
+      "numOfScenes": 11,
+      "numOfKills": 0,
+      "screenTime": "0:16:52",
+      "character": "Tommen Baratheon"
+    },
+    {
+      "house": null,
+      "season": 5,
+      "numOfScenes": 9,
+      "numOfKills": 0,
+      "screenTime": "0:07:57",
+      "character": "Grand Maester Pycelle"
+    },
+    {
+      "house": "Lannister",
+      "season": 5,
+      "numOfScenes": 10,
+      "numOfKills": 0,
+      "screenTime": "0:05:26",
+      "character": "Lancel Lannister"
+    },
+    {
+      "house": "Lannister",
+      "season": 5,
+      "numOfScenes": 5,
+      "numOfKills": 0,
+      "screenTime": "0:04:49",
+      "character": "Kevan Lannister"
+    },
+    {
+      "house": null,
+      "season": 5,
+      "numOfScenes": 8,
+      "numOfKills": 0,
+      "screenTime": "0:05:40",
+      "character": "Olyvar"
+    },
+    {
+      "house": null,
+      "season": 5,
+      "numOfScenes": 25,
+      "numOfKills": 0,
+      "screenTime": "0:28:06",
+      "character": "Hizdahr zo Loraq"
+    },
+    {
+      "house": null,
+      "season": 5,
+      "numOfScenes": 34,
+      "numOfKills": 1,
+      "screenTime": "0:41:11",
+      "character": "Daario Naharis"
+    },
+    {
+      "house": "Targaryen",
+      "season": 5,
+      "numOfScenes": 4,
+      "numOfKills": 0,
+      "screenTime": "0:03:11",
+      "character": "Viserion"
+    },
+    {
+      "house": "Targaryen",
+      "season": 5,
+      "numOfScenes": 4,
+      "numOfKills": 0,
+      "screenTime": "0:03:11",
+      "character": "Rhaegal"
+    },
+    {
+      "house": null,
+      "season": 5,
+      "numOfScenes": 8,
+      "numOfKills": 0,
+      "screenTime": "0:09:10",
+      "character": "Mance Rayder"
+    },
+    {
+      "house": null,
+      "season": 5,
+      "numOfScenes": 30,
+      "numOfKills": 0,
+      "screenTime": "0:34:35",
+      "character": "Eddison Tollett"
+    },
+    {
+      "house": null,
+      "season": 5,
+      "numOfScenes": 29,
+      "numOfKills": 1,
+      "screenTime": "0:31:36",
+      "character": "Tormund Giantsbane"
+    },
+    {
+      "house": "Baratheon",
+      "season": 5,
+      "numOfScenes": 11,
+      "numOfKills": 1,
+      "screenTime": "0:08:43",
+      "character": "Selyse Baratheon"
+    },
+    {
+      "house": "Baratheon",
+      "season": 5,
+      "numOfScenes": 12,
+      "numOfKills": 0,
+      "screenTime": "0:17:12",
+      "character": "Shireen Baratheon"
+    },
+    {
+      "house": "Stark",
+      "season": 5,
+      "numOfScenes": 45,
+      "numOfKills": 2,
+      "screenTime": "0:46:10",
+      "character": "Arya Stark"
+    },
+    {
+      "house": null,
+      "season": 5,
+      "numOfScenes": 2,
+      "numOfKills": 0,
+      "screenTime": "0:02:14",
+      "character": "Ternesio Terys"
+    },
+    {
+      "house": null,
+      "season": 5,
+      "numOfScenes": 4,
+      "numOfKills": 0,
+      "screenTime": "0:02:27",
+      "character": "Faceless Man"
+    },
+    {
+      "house": null,
+      "season": 5,
+      "numOfScenes": 20,
+      "numOfKills": 1,
+      "screenTime": "0:23:06",
+      "character": "Bronn"
+    },
+    {
+      "house": null,
+      "season": 5,
+      "numOfScenes": 2,
+      "numOfKills": 0,
+      "screenTime": "0:02:02",
+      "character": "Lollys Stokeworth"
+    },
+    {
+      "house": "Martell",
+      "season": 5,
+      "numOfScenes": 13,
+      "numOfKills": 1,
+      "screenTime": "0:12:49",
+      "character": "Ellaria Sand"
+    },
+    {
+      "house": "Baratheon",
+      "season": 5,
+      "numOfScenes": 14,
+      "numOfKills": 0,
+      "screenTime": "0:14:35",
+      "character": "Myrcella Baratheon"
+    },
+    {
+      "house": "Martell",
+      "season": 5,
+      "numOfScenes": 11,
+      "numOfKills": 0,
+      "screenTime": "0:10:09",
+      "character": "Trystane Martell"
+    },
+    {
+      "house": "Martell",
+      "season": 5,
+      "numOfScenes": 11,
+      "numOfKills": 0,
+      "screenTime": "0:08:59",
+      "character": "Doran Martell"
+    },
+    {
+      "house": null,
+      "season": 5,
+      "numOfScenes": 13,
+      "numOfKills": 0,
+      "screenTime": "0:10:41",
+      "character": "Areo Hotah"
+    },
+    {
+      "house": null,
+      "season": 5,
+      "numOfScenes": 13,
+      "numOfKills": 0,
+      "screenTime": "0:11:35",
+      "character": "Qyburn"
+    },
+    {
+      "house": "Targaryen",
+      "season": 5,
+      "numOfScenes": 8,
+      "numOfKills": 0,
+      "screenTime": "0:11:06",
+      "character": "Maester Aemon"
+    },
+    {
+      "house": null,
+      "season": 5,
+      "numOfScenes": 8,
+      "numOfKills": 0,
+      "screenTime": "0:11:48",
+      "character": "Othell Yarwyck"
+    },
+    {
+      "house": null,
+      "season": 5,
+      "numOfScenes": 17,
+      "numOfKills": 2,
+      "screenTime": "0:16:25",
+      "character": "Jaqen H'ghar"
+    },
+    {
+      "house": "Targaryen",
+      "season": 5,
+      "numOfScenes": 8,
+      "numOfKills": 0,
+      "screenTime": "0:06:28",
+      "character": "Drogon"
+    },
+    {
+      "house": null,
+      "season": 5,
+      "numOfScenes": 9,
+      "numOfKills": 0,
+      "screenTime": "0:08:32",
+      "character": "The Waif"
+    },
+    {
+      "house": "Greyjoy",
+      "season": 5,
+      "numOfScenes": 19,
+      "numOfKills": 1,
+      "screenTime": "0:27:15",
+      "character": "Theon Greyjoy"
+    },
+    {
+      "house": "Bolton",
+      "season": 5,
+      "numOfScenes": 9,
+      "numOfKills": 0,
+      "screenTime": "0:16:07",
+      "character": "Roose Bolton"
+    },
+    {
+      "house": "Bolton",
+      "season": 5,
+      "numOfScenes": 17,
+      "numOfKills": 1,
+      "screenTime": "0:27:25",
+      "character": "Ramsay Snow"
+    },
+    {
+      "house": ["Bolton", "Frey"],
+      "season": 5,
+      "numOfScenes": 4,
+      "numOfKills": 0,
+      "screenTime": "0:07:46",
+      "character": "Walda Bolton"
+    },
+    {
+      "house": null,
+      "season": 5,
+      "numOfScenes": 7,
+      "numOfKills": 0,
+      "screenTime": "0:11:38",
+      "character": "Myranda"
+    },
+    {
+      "house": null,
+      "season": 5,
+      "numOfScenes": 7,
+      "numOfKills": 0,
+      "screenTime": "0:10:51",
+      "character": "Bowen Marsh"
+    },
+    {
+      "house": null,
+      "season": 5,
+      "numOfScenes": 10,
+      "numOfKills": 0,
+      "screenTime": "0:22:35",
+      "character": "High Sparrow"
+    },
+    {
+      "house": null,
+      "season": 5,
+      "numOfScenes": 3,
+      "numOfKills": 0,
+      "screenTime": "0:01:25",
+      "character": "Gregor Clegane"
+    },
+    {
+      "house": null,
+      "season": 5,
+      "numOfScenes": 2,
+      "numOfKills": 0,
+      "screenTime": "0:01:22",
+      "character": "Red Priestess"
+    },
+    {
+      "house": "Mormont",
+      "season": 5,
+      "numOfScenes": 33,
+      "numOfKills": 0,
+      "screenTime": "0:49:58",
+      "character": "Jorah Mormont"
+    },
+    {
+      "house": null,
+      "season": 5,
+      "numOfScenes": 2,
+      "numOfKills": 0,
+      "screenTime": "0:01:49",
+      "character": "Merchant Captain"
+    },
+    {
+      "house": null,
+      "season": 5,
+      "numOfScenes": 1,
+      "numOfKills": 0,
+      "screenTime": "0:03:02",
+      "character": "Lead Dornish Guard"
+    },
+    {
+      "house": "Martell",
+      "season": 5,
+      "numOfScenes": 12,
+      "numOfKills": 1,
+      "screenTime": "0:13:07",
+      "character": "Obara Sand"
+    },
+    {
+      "house": "Martell",
+      "season": 5,
+      "numOfScenes": 12,
+      "numOfKills": 0,
+      "screenTime": "0:13:07",
+      "character": "Tyene Sand"
+    },
+    {
+      "house": "Martell",
+      "season": 5,
+      "numOfScenes": 12,
+      "numOfKills": 0,
+      "screenTime": "0:13:07",
+      "character": "Nymeria Sand"
+    },
+    {
+      "house": null,
+      "season": 5,
+      "numOfScenes": 2,
+      "numOfKills": 0,
+      "screenTime": "0:01:57",
+      "character": "Great Master #1"
+    },
+    {
+      "house": null,
+      "season": 5,
+      "numOfScenes": 3,
+      "numOfKills": 0,
+      "screenTime": "0:02:55",
+      "character": "Great Master #2"
+    },
+    {
+      "house": null,
+      "season": 5,
+      "numOfScenes": 3,
+      "numOfKills": 0,
+      "screenTime": "0:02:55",
+      "character": "Great Master #3"
+    },
+    {
+      "house": null,
+      "season": 5,
+      "numOfScenes": 3,
+      "numOfKills": 0,
+      "screenTime": "0:02:55",
+      "character": "Great Master #4"
+    },
+    {
+      "house": null,
+      "season": 5,
+      "numOfScenes": 3,
+      "numOfKills": 0,
+      "screenTime": "0:02:55",
+      "character": "Great Master #5"
+    },
+    {
+      "house": null,
+      "season": 5,
+      "numOfScenes": 3,
+      "numOfKills": 0,
+      "screenTime": "0:02:55",
+      "character": "Great Master #6"
+    },
+    {
+      "house": null,
+      "season": 5,
+      "numOfScenes": 3,
+      "numOfKills": 0,
+      "screenTime": "0:02:55",
+      "character": "Great Master #7"
+    },
+    {
+      "house": null,
+      "season": 5,
+      "numOfScenes": 3,
+      "numOfKills": 0,
+      "screenTime": "0:05:28",
+      "character": "Malko"
+    },
+    {
+      "house": "Tyrell",
+      "season": 5,
+      "numOfScenes": 8,
+      "numOfKills": 0,
+      "screenTime": "0:12:59",
+      "character": "Olenna Tyrell"
+    },
+    {
+      "house": null,
+      "season": 5,
+      "numOfScenes": 7,
+      "numOfKills": 0,
+      "screenTime": "0:07:50",
+      "character": "Yezzan zo Qaggaz"
+    },
+    {
+      "house": null,
+      "season": 5,
+      "numOfScenes": 10,
+      "numOfKills": 0,
+      "screenTime": "0:11:39",
+      "character": "Septa Unella"
+    },
+    {
+      "house": null,
+      "season": 5,
+      "numOfScenes": 2,
+      "numOfKills": 0,
+      "screenTime": "0:01:13",
+      "character": "Lhara"
+    },
+    {
+      "house": null,
+      "season": 5,
+      "numOfScenes": 3,
+      "numOfKills": 0,
+      "screenTime": "0:03:06",
+      "character": "Thin Man"
+    },
+    {
+      "house": null,
+      "season": 5,
+      "numOfScenes": 4,
+      "numOfKills": 0,
+      "screenTime": "0:03:43",
+      "character": "Todder"
+    },
+    {
+      "house": null,
+      "season": 5,
+      "numOfScenes": 1,
+      "numOfKills": 0,
+      "screenTime": "0:01:34",
+      "character": "Rattleshirt"
+    },
+    {
+      "house": null,
+      "season": 5,
+      "numOfScenes": 9,
+      "numOfKills": 0,
+      "screenTime": "0:13:15",
+      "character": "Karsi"
+    },
+    {
+      "house": null,
+      "season": 5,
+      "numOfScenes": 6,
+      "numOfKills": 0,
+      "screenTime": "0:10:42",
+      "character": "Loboda"
+    },
+    {
+      "house": null,
+      "season": 5,
+      "numOfScenes": 10,
+      "numOfKills": 0,
+      "screenTime": "0:12:39",
+      "character": "Wun Wun"
+    },
+    {
+      "house": null,
+      "season": 5,
+      "numOfScenes": 6,
+      "numOfKills": 0,
+      "screenTime": "0:03:52",
+      "character": "The Night King"
+    },
+    {
+      "house": null,
+      "season": 5,
+      "numOfScenes": 3,
+      "numOfKills": 1,
+      "screenTime": "0:02:24",
+      "character": "White Walker"
+    },
+    {
+      "house": null,
+      "season": 5,
+      "numOfScenes": 3,
+      "numOfKills": 0,
+      "screenTime": "0:02:00",
+      "character": "Tycho Nestoris"
+    },
+    {
+      "house": null,
+      "season": 5,
+      "numOfScenes": 1,
+      "numOfKills": 0,
+      "screenTime": "0:02:42",
+      "character": "Brea"
+    },
+    {
+      "house": null,
+      "season": 5,
+      "numOfScenes": 2,
+      "numOfKills": 0,
+      "screenTime": "0:03:47",
+      "character": "Septa Moelle"
+    },
+    {
+      "house": null,
+      "season": 5,
+      "numOfScenes": 2,
+      "numOfKills": 0,
+      "screenTime": "0:03:47",
+      "character": "Septa Scolera"
+    }
+  ],
+  [
+    {
+      "house": "Stark",
+      "season": 6,
+      "numOfScenes": 81,
+      "numOfKills": 4,
+      "screenTime": "1:32:07",
+      "character": "Jon Snow"
+    },
+    {
+      "house": "Stark",
+      "season": 6,
+      "numOfScenes": 10,
+      "numOfKills": 0,
+      "screenTime": "0:11:36",
+      "character": "Ghost"
+    },
+    {
+      "house": null,
+      "season": 6,
+      "numOfScenes": 53,
+      "numOfKills": 0,
+      "screenTime": "1:08:21",
+      "character": "Davos Seaworth"
+    },
+    {
+      "house": null,
+      "season": 6,
+      "numOfScenes": 23,
+      "numOfKills": 0,
+      "screenTime": "0:25:16",
+      "character": "Eddison Tollett"
+    },
+    {
+      "house": null,
+      "season": 6,
+      "numOfScenes": 7,
+      "numOfKills": 0,
+      "screenTime": "0:07:36",
+      "character": "Loyal Night's Watchman #1"
+    },
+    {
+      "house": null,
+      "season": 6,
+      "numOfScenes": 7,
+      "numOfKills": 0,
+      "screenTime": "0:07:36",
+      "character": "Loyal Night's Watchman #2"
+    },
+    {
+      "house": null,
+      "season": 6,
+      "numOfScenes": 20,
+      "numOfKills": 0,
+      "screenTime": "0:27:32",
+      "character": "Melisandre"
+    },
+    {
+      "house": null,
+      "season": 6,
+      "numOfScenes": 7,
+      "numOfKills": 0,
+      "screenTime": "0:09:43",
+      "character": "Alliser Thorne"
+    },
+    {
+      "house": null,
+      "season": 6,
+      "numOfScenes": 5,
+      "numOfKills": 0,
+      "screenTime": "0:08:06",
+      "character": "Othell Yarwyck"
+    },
+    {
+      "house": null,
+      "season": 6,
+      "numOfScenes": 5,
+      "numOfKills": 0,
+      "screenTime": "0:08:06",
+      "character": "Bowen Marsh"
+    },
+    {
+      "house": null,
+      "season": 6,
+      "numOfScenes": 6,
+      "numOfKills": 0,
+      "screenTime": "0:08:01",
+      "character": "Olly"
+    },
+    {
+      "house": null,
+      "season": 6,
+      "numOfScenes": 1,
+      "numOfKills": 0,
+      "screenTime": "0:01:57",
+      "character": "Night's Watchman #1"
+    },
+    {
+      "house": null,
+      "season": 6,
+      "numOfScenes": 2,
+      "numOfKills": 0,
+      "screenTime": "0:02:21",
+      "character": "Night's Watchman #2"
+    },
+    {
+      "house": "Bolton",
+      "season": 6,
+      "numOfScenes": 39,
+      "numOfKills": 6,
+      "screenTime": "0:40:21",
+      "character": "Ramsay Snow"
+    },
+    {
+      "house": null,
+      "season": 6,
+      "numOfScenes": 1,
+      "numOfKills": 0,
+      "screenTime": "0:01:16",
+      "character": "Myranda"
+    },
+    {
+      "house": null,
+      "season": 6,
+      "numOfScenes": 2,
+      "numOfKills": 0,
+      "screenTime": "0:03:29",
+      "character": "Maester Wolkan"
+    },
+    {
+      "house": "Bolton",
+      "season": 6,
+      "numOfScenes": 3,
+      "numOfKills": 0,
+      "screenTime": "0:05:10",
+      "character": "Roose Bolton"
+    },
+    {
+      "house": "Greyjoy",
+      "season": 6,
+      "numOfScenes": 18,
+      "numOfKills": 0,
+      "screenTime": "0:27:06",
+      "character": "Theon Greyjoy"
+    },
+    {
+      "house": "Stark",
+      "season": 6,
+      "numOfScenes": 45,
+      "numOfKills": 1,
+      "screenTime": "1:04:08",
+      "character": "Sansa Stark"
+    },
+    {
+      "house": null,
+      "season": 6,
+      "numOfScenes": 22,
+      "numOfKills": 1,
+      "screenTime": "0:29:09",
+      "character": "Brienne of Tarth"
+    },
+    {
+      "house": null,
+      "season": 6,
+      "numOfScenes": 16,
+      "numOfKills": 1,
+      "screenTime": "0:17:31",
+      "character": "Podrick Payne"
+    },
+    {
+      "house": ["Lannister", "Baratheon"],
+      "season": 6,
+      "numOfScenes": 38,
+      "numOfKills": 6,
+      "screenTime": "0:37:02",
+      "character": "Cersei Lannister"
+    },
+    {
+      "house": null,
+      "season": 6,
+      "numOfScenes": 3,
+      "numOfKills": 0,
+      "screenTime": "0:02:06",
+      "character": "Handmaid"
+    },
+    {
+      "house": null,
+      "season": 6,
+      "numOfScenes": 20,
+      "numOfKills": 1,
+      "screenTime": "0:18:27",
+      "character": "Gregor Clegane"
+    },
+    {
+      "house": "Lannister",
+      "season": 6,
+      "numOfScenes": 40,
+      "numOfKills": 0,
+      "screenTime": "0:49:08",
+      "character": "Jaime Lannister"
+    },
+    {
+      "house": "Tyrell",
+      "season": 6,
+      "numOfScenes": 31,
+      "numOfKills": 0,
+      "screenTime": "0:29:37",
+      "character": "Margaery Tyrell"
+    },
+    {
+      "house": null,
+      "season": 6,
+      "numOfScenes": 12,
+      "numOfKills": 0,
+      "screenTime": "0:12:33",
+      "character": "Septa Unella"
+    },
+    {
+      "house": null,
+      "season": 6,
+      "numOfScenes": 27,
+      "numOfKills": 0,
+      "screenTime": "0:28:57",
+      "character": "High Sparrow"
+    },
+    {
+      "house": null,
+      "season": 6,
+      "numOfScenes": 2,
+      "numOfKills": 0,
+      "screenTime": "0:01:22",
+      "character": "Areo Hotah"
+    },
+    {
+      "house": "Martell",
+      "season": 6,
+      "numOfScenes": 5,
+      "numOfKills": 1,
+      "screenTime": "0:03:52",
+      "character": "Ellaria Sand"
+    },
+    {
+      "house": "Martell",
+      "season": 6,
+      "numOfScenes": 3,
+      "numOfKills": 0,
+      "screenTime": "0:02:15",
+      "character": "Doran Martell"
+    },
+    {
+      "house": "Martell",
+      "season": 6,
+      "numOfScenes": 5,
+      "numOfKills": 2,
+      "screenTime": "0:03:52",
+      "character": "Tyene Sand"
+    },
+    {
+      "house": "Martell",
+      "season": 6,
+      "numOfScenes": 1,
+      "numOfKills": 0,
+      "screenTime": "0:01:10",
+      "character": "Trystane Martell"
+    },
+    {
+      "house": "Martell",
+      "season": 6,
+      "numOfScenes": 3,
+      "numOfKills": 1,
+      "screenTime": "0:02:47",
+      "character": "Obara Sand"
+    },
+    {
+      "house": "Martell",
+      "season": 6,
+      "numOfScenes": 3,
+      "numOfKills": 0,
+      "screenTime": "0:02:47",
+      "character": "Nymeria Sand"
+    },
+    {
+      "house": "Lannister",
+      "season": 6,
+      "numOfScenes": 32,
+      "numOfKills": 0,
+      "screenTime": "0:47:32",
+      "character": "Tyrion Lannister"
+    },
+    {
+      "house": null,
+      "season": 6,
+      "numOfScenes": 18,
+      "numOfKills": 0,
+      "screenTime": "0:23:44",
+      "character": "Lord Varys"
+    },
+    {
+      "house": null,
+      "season": 6,
+      "numOfScenes": 2,
+      "numOfKills": 0,
+      "screenTime": "0:05:05",
+      "character": "Zanrush"
+    },
+    {
+      "house": "Mormont",
+      "season": 6,
+      "numOfScenes": 9,
+      "numOfKills": 0,
+      "screenTime": "0:13:47",
+      "character": "Jorah Mormont"
+    },
+    {
+      "house": null,
+      "season": 6,
+      "numOfScenes": 14,
+      "numOfKills": 2,
+      "screenTime": "0:21:33",
+      "character": "Daario Naharis"
+    },
+    {
+      "house": "Targaryen",
+      "season": 6,
+      "numOfScenes": 34,
+      "numOfKills": 7,
+      "screenTime": "0:41:13",
+      "character": "Daenerys Targaryen"
+    },
+    {
+      "house": null,
+      "season": 6,
+      "numOfScenes": 7,
+      "numOfKills": 0,
+      "screenTime": "0:09:05",
+      "character": "Akho"
+    },
+    {
+      "house": null,
+      "season": 6,
+      "numOfScenes": 8,
+      "numOfKills": 0,
+      "screenTime": "0:07:20",
+      "character": "Qhono"
+    },
+    {
+      "house": null,
+      "season": 6,
+      "numOfScenes": 6,
+      "numOfKills": 0,
+      "screenTime": "0:08:17",
+      "character": "Khal Moro"
+    },
+    {
+      "house": null,
+      "season": 6,
+      "numOfScenes": 5,
+      "numOfKills": 0,
+      "screenTime": "0:08:06",
+      "character": "Dothraki Bloodrider #1"
+    },
+    {
+      "house": null,
+      "season": 6,
+      "numOfScenes": 5,
+      "numOfKills": 0,
+      "screenTime": "0:08:06",
+      "character": "Dothraki Bloodrider #2"
+    },
+    {
+      "house": "Stark",
+      "season": 6,
+      "numOfScenes": 41,
+      "numOfKills": 4,
+      "screenTime": "0:38:14",
+      "character": "Arya Stark"
+    },
+    {
+      "house": null,
+      "season": 6,
+      "numOfScenes": 13,
+      "numOfKills": 1,
+      "screenTime": "0:13:07",
+      "character": "The Waif"
+    },
+    {
+      "house": null,
+      "season": 6,
+      "numOfScenes": 34,
+      "numOfKills": 0,
+      "screenTime": "0:17:21",
+      "character": "Three-Eyed Raven"
+    },
+    {
+      "house": "Stark",
+      "season": 6,
+      "numOfScenes": 64,
+      "numOfKills": 0,
+      "screenTime": "0:35:07",
+      "character": "Bran Stark"
+    },
+    {
+      "house": "Stark",
+      "season": 6,
+      "numOfScenes": 13,
+      "numOfKills": 1,
+      "screenTime": "0:10:40",
+      "character": "Young Ned Stark"
+    },
+    {
+      "house": null,
+      "season": 6,
+      "numOfScenes": 4,
+      "numOfKills": 0,
+      "screenTime": "0:01:41",
+      "character": "Young Rodrik Cassel"
+    },
+    {
+      "house": "Stark",
+      "season": 6,
+      "numOfScenes": 5,
+      "numOfKills": 0,
+      "screenTime": "0:02:18",
+      "character": "Young Benjen Stark"
+    },
+    {
+      "house": "Stark",
+      "season": 6,
+      "numOfScenes": 3,
+      "numOfKills": 0,
+      "screenTime": "0:01:24",
+      "character": "Young Lyanna Stark"
+    },
+    {
+      "house": null,
+      "season": 6,
+      "numOfScenes": 12,
+      "numOfKills": 0,
+      "screenTime": "0:02:16",
+      "character": "Wyllis"
+    },
+    {
+      "house": null,
+      "season": 6,
+      "numOfScenes": 5,
+      "numOfKills": 0,
+      "screenTime": "0:01:09",
+      "character": "Young Nan"
+    },
+    {
+      "house": null,
+      "season": 6,
+      "numOfScenes": 18,
+      "numOfKills": 0,
+      "screenTime": "0:09:19",
+      "character": "Leaf"
+    },
+    {
+      "house": null,
+      "season": 6,
+      "numOfScenes": 21,
+      "numOfKills": 0,
+      "screenTime": "0:08:45",
+      "character": "Hodor"
+    },
+    {
+      "house": null,
+      "season": 6,
+      "numOfScenes": 25,
+      "numOfKills": 1,
+      "screenTime": "0:17:31",
+      "character": "Meera Reed"
+    },
+    {
+      "house": null,
+      "season": 6,
+      "numOfScenes": 13,
+      "numOfKills": 0,
+      "screenTime": "0:11:45",
+      "character": "Wun Wun"
+    },
+    {
+      "house": null,
+      "season": 6,
+      "numOfScenes": 45,
+      "numOfKills": 1,
+      "screenTime": "0:49:29",
+      "character": "Tormund Giantsbane"
+    },
+    {
+      "house": null,
+      "season": 6,
+      "numOfScenes": 1,
+      "numOfKills": 0,
+      "screenTime": "0:00:56",
+      "character": "Lannister Captain"
+    },
+    {
+      "house": "Baratheon",
+      "season": 6,
+      "numOfScenes": 21,
+      "numOfKills": 1,
+      "screenTime": "0:24:35",
+      "character": "Tommen Baratheon"
+    },
+    {
+      "house": "Baratheon",
+      "season": 6,
+      "numOfScenes": 3,
+      "numOfKills": 0,
+      "screenTime": "0:04:44",
+      "character": "Myrcella Baratheon"
+    },
+    {
+      "house": null,
+      "season": 6,
+      "numOfScenes": 18,
+      "numOfKills": 0,
+      "screenTime": "0:24:09",
+      "character": "Missandei"
+    },
+    {
+      "house": null,
+      "season": 6,
+      "numOfScenes": 17,
+      "numOfKills": 2,
+      "screenTime": "0:25:10",
+      "character": "Grey Worm"
+    },
+    {
+      "house": "Targaryen",
+      "season": 6,
+      "numOfScenes": 5,
+      "numOfKills": 0,
+      "screenTime": "0:06:01",
+      "character": "Rhaegal"
+    },
+    {
+      "house": "Targaryen",
+      "season": 6,
+      "numOfScenes": 5,
+      "numOfKills": 0,
+      "screenTime": "0:06:01",
+      "character": "Viserion"
+    },
+    {
+      "house": null,
+      "season": 6,
+      "numOfScenes": 10,
+      "numOfKills": 0,
+      "screenTime": "0:09:09",
+      "character": "Jaqen H'ghar"
+    },
+    {
+      "house": null,
+      "season": 6,
+      "numOfScenes": 9,
+      "numOfKills": 0,
+      "screenTime": "0:11:38",
+      "character": "Harald Karstark"
+    },
+    {
+      "house": ["Bolton", "Frey"],
+      "season": 6,
+      "numOfScenes": 1,
+      "numOfKills": 0,
+      "screenTime": "0:02:52",
+      "character": "Walda Bolton"
+    },
+    {
+      "house": "Greyjoy",
+      "season": 6,
+      "numOfScenes": 3,
+      "numOfKills": 0,
+      "screenTime": "0:05:40",
+      "character": "Balon Greyjoy"
+    },
+    {
+      "house": "Greyjoy",
+      "season": 6,
+      "numOfScenes": 14,
+      "numOfKills": 0,
+      "screenTime": "0:23:13",
+      "character": "Yara Greyjoy"
+    },
+    {
+      "house": "Greyjoy",
+      "season": 6,
+      "numOfScenes": 8,
+      "numOfKills": 1,
+      "screenTime": "0:08:41",
+      "character": "Euron Greyjoy"
+    },
+    {
+      "house": "Greyjoy",
+      "season": 6,
+      "numOfScenes": 9,
+      "numOfKills": 1,
+      "screenTime": "0:10:01",
+      "character": "Aeron Greyjoy"
+    },
+    {
+      "house": null,
+      "season": 6,
+      "numOfScenes": 11,
+      "numOfKills": 0,
+      "screenTime": "0:20:00",
+      "character": "Gilly"
+    },
+    {
+      "house": null,
+      "season": 6,
+      "numOfScenes": 13,
+      "numOfKills": 0,
+      "screenTime": "0:21:08",
+      "character": "Samwell Tarly"
+    },
+    {
+      "house": null,
+      "season": 6,
+      "numOfScenes": 9,
+      "numOfKills": 0,
+      "screenTime": "0:13:20",
+      "character": "Baby Sam"
+    },
+    {
+      "house": null,
+      "season": 6,
+      "numOfScenes": 2,
+      "numOfKills": 0,
+      "screenTime": "0:04:46",
+      "character": "Arthur Dayne"
+    },
+    {
+      "house": null,
+      "season": 6,
+      "numOfScenes": 1,
+      "numOfKills": 0,
+      "screenTime": "0:02:45",
+      "character": "Gerold Hightower"
+    },
+    {
+      "house": null,
+      "season": 6,
+      "numOfScenes": 3,
+      "numOfKills": 1,
+      "screenTime": "0:05:23",
+      "character": "Howland Reed"
+    },
+    {
+      "house": null,
+      "season": 6,
+      "numOfScenes": 7,
+      "numOfKills": 0,
+      "screenTime": "0:04:44",
+      "character": "High Priestess"
+    },
+    {
+      "house": null,
+      "season": 6,
+      "numOfScenes": 7,
+      "numOfKills": 0,
+      "screenTime": "0:05:37",
+      "character": "Ornela"
+    },
+    {
+      "house": null,
+      "season": 6,
+      "numOfScenes": 1,
+      "numOfKills": 0,
+      "screenTime": "0:03:41",
+      "character": "Vala"
+    },
+    {
+      "house": null,
+      "season": 6,
+      "numOfScenes": 15,
+      "numOfKills": 0,
+      "screenTime": "0:13:21",
+      "character": "Qyburn"
+    },
+    {
+      "house": null,
+      "season": 6,
+      "numOfScenes": 8,
+      "numOfKills": 0,
+      "screenTime": "0:03:07",
+      "character": "Arthur"
+    },
+    {
+      "house": null,
+      "season": 6,
+      "numOfScenes": 6,
+      "numOfKills": 0,
+      "screenTime": "0:03:00",
+      "character": "Little Bird #3"
+    },
+    {
+      "house": null,
+      "season": 6,
+      "numOfScenes": 5,
+      "numOfKills": 0,
+      "screenTime": "0:02:13",
+      "character": "Little Bird #4"
+    },
+    {
+      "house": null,
+      "season": 6,
+      "numOfScenes": 5,
+      "numOfKills": 0,
+      "screenTime": "0:02:13",
+      "character": "Little Bird #5"
+    },
+    {
+      "house": null,
+      "season": 6,
+      "numOfScenes": 5,
+      "numOfKills": 0,
+      "screenTime": "0:02:13",
+      "character": "Little Bird #6"
+    },
+    {
+      "house": null,
+      "season": 6,
+      "numOfScenes": 5,
+      "numOfKills": 0,
+      "screenTime": "0:02:13",
+      "character": "Little Bird #7"
+    },
+    {
+      "house": "Tyrell",
+      "season": 6,
+      "numOfScenes": 18,
+      "numOfKills": 0,
+      "screenTime": "0:15:50",
+      "character": "Mace Tyrell"
+    },
+    {
+      "house": "Tyrell",
+      "season": 6,
+      "numOfScenes": 11,
+      "numOfKills": 0,
+      "screenTime": "0:14:46",
+      "character": "Olenna Tyrell"
+    },
+    {
+      "house": "Lannister",
+      "season": 6,
+      "numOfScenes": 15,
+      "numOfKills": 0,
+      "screenTime": "0:14:22",
+      "character": "Kevan Lannister"
+    },
+    {
+      "house": null,
+      "season": 6,
+      "numOfScenes": 14,
+      "numOfKills": 0,
+      "screenTime": "0:08:32",
+      "character": "Grand Maester Pycelle"
+    },
+    {
+      "house": null,
+      "season": 6,
+      "numOfScenes": 14,
+      "numOfKills": 1,
+      "screenTime": "0:14:07",
+      "character": "Smalljon Umber"
+    },
+    {
+      "house": null,
+      "season": 6,
+      "numOfScenes": 3,
+      "numOfKills": 0,
+      "screenTime": "0:04:38",
+      "character": "Osha"
+    },
+    {
+      "house": "Stark",
+      "season": 6,
+      "numOfScenes": 9,
+      "numOfKills": 0,
+      "screenTime": "0:05:42",
+      "character": "Rickon Stark"
+    },
+    {
+      "house": "Stark",
+      "season": 6,
+      "numOfScenes": 2,
+      "numOfKills": 0,
+      "screenTime": "0:00:32",
+      "character": "Shaggydog"
+    },
+    {
+      "house": null,
+      "season": 6,
+      "numOfScenes": 4,
+      "numOfKills": 0,
+      "screenTime": "0:03:33",
+      "character": "Robin Arryn"
+    },
+    {
+      "house": null,
+      "season": 6,
+      "numOfScenes": 5,
+      "numOfKills": 0,
+      "screenTime": "0:07:48",
+      "character": "Yohn Royce"
+    },
+    {
+      "house": null,
+      "season": 6,
+      "numOfScenes": 9,
+      "numOfKills": 0,
+      "screenTime": "0:15:42",
+      "character": "Petyr Baelish"
+    },
+    {
+      "house": null,
+      "season": 6,
+      "numOfScenes": 6,
+      "numOfKills": 0,
+      "screenTime": "0:07:11",
+      "character": "Yezzan zo Qaggaz"
+    },
+    {
+      "house": null,
+      "season": 6,
+      "numOfScenes": 5,
+      "numOfKills": 0,
+      "screenTime": "0:06:29",
+      "character": "Razdal mo Eraz"
+    },
+    {
+      "house": "Tyrell",
+      "season": 6,
+      "numOfScenes": 11,
+      "numOfKills": 0,
+      "screenTime": "0:07:29",
+      "character": "Loras Tyrell"
+    },
+    {
+      "house": null,
+      "season": 6,
+      "numOfScenes": 1,
+      "numOfKills": 0,
+      "screenTime": "0:00:17",
+      "character": "Night's Watchman"
+    },
+    {
+      "house": null,
+      "season": 6,
+      "numOfScenes": 4,
+      "numOfKills": 0,
+      "screenTime": "0:04:26",
+      "character": "Khal Rhalko"
+    },
+    {
+      "house": null,
+      "season": 6,
+      "numOfScenes": 11,
+      "numOfKills": 0,
+      "screenTime": "0:09:30",
+      "character": "Izembaro"
+    },
+    {
+      "house": null,
+      "season": 6,
+      "numOfScenes": 15,
+      "numOfKills": 0,
+      "screenTime": "0:17:46",
+      "character": "Lady Crane"
+    },
+    {
+      "house": null,
+      "season": 6,
+      "numOfScenes": 12,
+      "numOfKills": 0,
+      "screenTime": "0:09:37",
+      "character": "Bobono"
+    },
+    {
+      "house": null,
+      "season": 6,
+      "numOfScenes": 10,
+      "numOfKills": 0,
+      "screenTime": "0:09:21",
+      "character": "Bianca"
+    },
+    {
+      "house": null,
+      "season": 6,
+      "numOfScenes": 3,
+      "numOfKills": 0,
+      "screenTime": "0:06:34",
+      "character": "Musician #1"
+    },
+    {
+      "house": null,
+      "season": 6,
+      "numOfScenes": 3,
+      "numOfKills": 0,
+      "screenTime": "0:06:34",
+      "character": "Musician #2"
+    },
+    {
+      "house": null,
+      "season": 6,
+      "numOfScenes": 3,
+      "numOfKills": 0,
+      "screenTime": "0:06:34",
+      "character": "Musician #3"
+    },
+    {
+      "house": null,
+      "season": 6,
+      "numOfScenes": 3,
+      "numOfKills": 0,
+      "screenTime": "0:06:34",
+      "character": "Musician #4"
+    },
+    {
+      "house": null,
+      "season": 6,
+      "numOfScenes": 3,
+      "numOfKills": 0,
+      "screenTime": "0:06:34",
+      "character": "Musician #5"
+    },
+    {
+      "house": null,
+      "season": 6,
+      "numOfScenes": 14,
+      "numOfKills": 1,
+      "screenTime": "0:03:49",
+      "character": "The Night King"
+    },
+    {
+      "house": null,
+      "season": 6,
+      "numOfScenes": 1,
+      "numOfKills": 0,
+      "screenTime": "0:04:34",
+      "character": "Kinvara"
+    },
+    {
+      "house": "Stark",
+      "season": 6,
+      "numOfScenes": 5,
+      "numOfKills": 0,
+      "screenTime": "0:03:29",
+      "character": "Summer"
+    },
+    {
+      "house": null,
+      "season": 6,
+      "numOfScenes": 2,
+      "numOfKills": 0,
+      "screenTime": "0:01:04",
+      "character": "White Walker"
+    },
+    {
+      "house": "Stark",
+      "season": 6,
+      "numOfScenes": 1,
+      "numOfKills": 0,
+      "screenTime": "0:00:15",
+      "character": "Rickard Stark"
+    },
+    {
+      "house": ["Stark", "Tully"],
+      "season": 6,
+      "numOfScenes": 1,
+      "numOfKills": 0,
+      "screenTime": "0:00:07",
+      "character": "Catelyn Stark"
+    },
+    {
+      "house": "Stark",
+      "season": 6,
+      "numOfScenes": 1,
+      "numOfKills": 0,
+      "screenTime": "0:00:07",
+      "character": "Eddard Stark"
+    },
+    {
+      "house": "Targaryen",
+      "season": 6,
+      "numOfScenes": 9,
+      "numOfKills": 0,
+      "screenTime": "0:06:35",
+      "character": "Drogon"
+    },
+    {
+      "house": null,
+      "season": 6,
+      "numOfScenes": 1,
+      "numOfKills": 0,
+      "screenTime": "0:00:07",
+      "character": "Ilyn Payne"
+    },
+    {
+      "house": "Stark",
+      "season": 6,
+      "numOfScenes": 1,
+      "numOfKills": 0,
+      "screenTime": "0:00:10",
+      "character": "Robb Stark"
+    },
+    {
+      "house": "Stark",
+      "season": 6,
+      "numOfScenes": 3,
+      "numOfKills": 0,
+      "screenTime": "0:05:15",
+      "character": "Benjen Stark"
+    },
+    {
+      "house": null,
+      "season": 6,
+      "numOfScenes": 2,
+      "numOfKills": 0,
+      "screenTime": "0:07:55",
+      "character": "Melessa Tarly"
+    },
+    {
+      "house": "Tarly",
+      "season": 6,
+      "numOfScenes": 2,
+      "numOfKills": 0,
+      "screenTime": "0:07:55",
+      "character": "Talla Tarly"
+    },
+    {
+      "house": null,
+      "season": 6,
+      "numOfScenes": 2,
+      "numOfKills": 0,
+      "screenTime": "0:06:23",
+      "character": "Randyll Tarly"
+    },
+    {
+      "house": null,
+      "season": 6,
+      "numOfScenes": 2,
+      "numOfKills": 0,
+      "screenTime": "0:06:23",
+      "character": "Dickon Tarly"
+    },
+    {
+      "house": "Lannister",
+      "season": 6,
+      "numOfScenes": 21,
+      "numOfKills": 0,
+      "screenTime": "0:10:34",
+      "character": "Lancel Lannister"
+    },
+    {
+      "house": "Frey",
+      "season": 6,
+      "numOfScenes": 6,
+      "numOfKills": 0,
+      "screenTime": "0:07:12",
+      "character": "Walder Frey"
+    },
+    {
+      "house": "Frey",
+      "season": 6,
+      "numOfScenes": 6,
+      "numOfKills": 0,
+      "screenTime": "0:06:40",
+      "character": "Black Walder Rivers"
+    },
+    {
+      "house": "Frey",
+      "season": 6,
+      "numOfScenes": 8,
+      "numOfKills": 0,
+      "screenTime": "0:07:48",
+      "character": "Lothar Frey"
+    },
+    {
+      "house": "Frey",
+      "season": 6,
+      "numOfScenes": 2,
+      "numOfKills": 0,
+      "screenTime": "0:02:20",
+      "character": "Kitty Frey"
+    },
+    {
+      "house": "Tully",
+      "season": 6,
+      "numOfScenes": 11,
+      "numOfKills": 0,
+      "screenTime": "0:10:32",
+      "character": "Edmure Tully"
+    },
+    {
+      "house": null,
+      "season": 6,
+      "numOfScenes": 8,
+      "numOfKills": 0,
+      "screenTime": "0:08:50",
+      "character": "Brother Ray"
+    },
+    {
+      "house": null,
+      "season": 6,
+      "numOfScenes": 15,
+      "numOfKills": 5,
+      "screenTime": "0:15:06",
+      "character": "Sandor Clegane"
+    },
+    {
+      "house": null,
+      "season": 6,
+      "numOfScenes": 10,
+      "numOfKills": 0,
+      "screenTime": "0:08:07",
+      "character": "Bronn"
+    },
+    {
+      "house": "Tully",
+      "season": 6,
+      "numOfScenes": 8,
+      "numOfKills": 0,
+      "screenTime": "0:08:49",
+      "character": "Brynden Tully"
+    },
+    {
+      "house": "Mormont",
+      "season": 6,
+      "numOfScenes": 8,
+      "numOfKills": 0,
+      "screenTime": "0:14:41",
+      "character": "Lyanna Mormont"
+    },
+    {
+      "house": null,
+      "season": 6,
+      "numOfScenes": 3,
+      "numOfKills": 0,
+      "screenTime": "0:07:08",
+      "character": "Robett Glover"
+    },
+    {
+      "house": null,
+      "season": 6,
+      "numOfScenes": 1,
+      "numOfKills": 0,
+      "screenTime": "0:00:23",
+      "character": "Northman Rioter"
+    },
+    {
+      "house": null,
+      "season": 6,
+      "numOfScenes": 1,
+      "numOfKills": 0,
+      "screenTime": "0:00:23",
+      "character": "Wildling Rioter"
+    },
+    {
+      "house": null,
+      "season": 6,
+      "numOfScenes": 2,
+      "numOfKills": 1,
+      "screenTime": "0:04:12",
+      "character": "Lem Lemoncloak"
+    },
+    {
+      "house": null,
+      "season": 6,
+      "numOfScenes": 5,
+      "numOfKills": 0,
+      "screenTime": "0:03:11",
+      "character": "Gatins"
+    },
+    {
+      "house": null,
+      "season": 6,
+      "numOfScenes": 1,
+      "numOfKills": 0,
+      "screenTime": "0:00:37",
+      "character": "Red Priestess"
+    },
+    {
+      "house": null,
+      "season": 6,
+      "numOfScenes": 2,
+      "numOfKills": 0,
+      "screenTime": "0:04:42",
+      "character": "Beric Dondarrion"
+    },
+    {
+      "house": null,
+      "season": 6,
+      "numOfScenes": 2,
+      "numOfKills": 0,
+      "screenTime": "0:04:42",
+      "character": "Thoros of Myr"
+    },
+    {
+      "house": null,
+      "season": 6,
+      "numOfScenes": 1,
+      "numOfKills": 0,
+      "screenTime": "0:00:22",
+      "character": "Marei"
+    },
+    {
+      "house": null,
+      "season": 6,
+      "numOfScenes": 2,
+      "numOfKills": 0,
+      "screenTime": "0:02:24",
+      "character": "Citadel Maester"
+    },
+    {
+      "house": "Stark",
+      "season": 6,
+      "numOfScenes": 2,
+      "numOfKills": 0,
+      "screenTime": "0:02:12",
+      "character": "Lyanna Stark"
+    }
+  ],
+  [
+    {
+      "house": "Frey",
+      "season": 7,
+      "numOfScenes": 2,
+      "numOfKills": 0,
+      "screenTime": "0:03:10",
+      "character": "Walder Frey"
+    },
+    {
+      "house": "Frey",
+      "season": 7,
+      "numOfScenes": 2,
+      "numOfKills": 0,
+      "screenTime": "0:03:26",
+      "character": "Kitty Frey"
+    },
+    {
+      "house": "Stark",
+      "season": 7,
+      "numOfScenes": 30,
+      "numOfKills": 1,
+      "screenTime": "0:45:44",
+      "character": "Arya Stark"
+    },
+    {
+      "house": null,
+      "season": 7,
+      "numOfScenes": 19,
+      "numOfKills": 1,
+      "screenTime": "0:07:58",
+      "character": "The Night King"
+    },
+    {
+      "house": null,
+      "season": 7,
+      "numOfScenes": 20,
+      "numOfKills": 0,
+      "screenTime": "0:08:59",
+      "character": "White Walker"
+    },
+    {
+      "house": "Stark",
+      "season": 7,
+      "numOfScenes": 18,
+      "numOfKills": 0,
+      "screenTime": "0:20:46",
+      "character": "Bran Stark"
+    },
+    {
+      "house": null,
+      "season": 7,
+      "numOfScenes": 5,
+      "numOfKills": 0,
+      "screenTime": "0:04:09",
+      "character": "Meera Reed"
+    },
+    {
+      "house": null,
+      "season": 7,
+      "numOfScenes": 2,
+      "numOfKills": 0,
+      "screenTime": "0:01:27",
+      "character": "Eddison Tollett"
+    },
+    {
+      "house": null,
+      "season": 7,
+      "numOfScenes": 53,
+      "numOfKills": 0,
+      "screenTime": "1:13:37",
+      "character": "Davos Seaworth"
+    },
+    {
+      "house": "Stark",
+      "season": 7,
+      "numOfScenes": 105,
+      "numOfKills": 1,
+      "screenTime": "2:10:40",
+      "character": "Jon Snow"
+    },
+    {
+      "house": "Stark",
+      "season": 7,
+      "numOfScenes": 40,
+      "numOfKills": 0,
+      "screenTime": "0:57:16",
+      "character": "Sansa Stark"
+    },
+    {
+      "house": null,
+      "season": 7,
+      "numOfScenes": 26,
+      "numOfKills": 0,
+      "screenTime": "0:38:33",
+      "character": "Brienne of Tarth"
+    },
+    {
+      "house": null,
+      "season": 7,
+      "numOfScenes": 13,
+      "numOfKills": 0,
+      "screenTime": "0:13:20",
+      "character": "Podrick Payne"
+    },
+    {
+      "house": null,
+      "season": 7,
+      "numOfScenes": 47,
+      "numOfKills": 0,
+      "screenTime": "0:41:57",
+      "character": "Tormund Giantsbane"
+    },
+    {
+      "house": null,
+      "season": 7,
+      "numOfScenes": 5,
+      "numOfKills": 0,
+      "screenTime": "0:10:07",
+      "character": "Robett Glover"
+    },
+    {
+      "house": null,
+      "season": 7,
+      "numOfScenes": 8,
+      "numOfKills": 0,
+      "screenTime": "0:17:05",
+      "character": "Yohn Royce"
+    },
+    {
+      "house": "Mormont",
+      "season": 7,
+      "numOfScenes": 3,
+      "numOfKills": 0,
+      "screenTime": "0:08:57",
+      "character": "Lyanna Mormont"
+    },
+    {
+      "house": null,
+      "season": 7,
+      "numOfScenes": 25,
+      "numOfKills": 0,
+      "screenTime": "0:33:31",
+      "character": "Petyr Baelish"
+    },
+    {
+      "house": null,
+      "season": 7,
+      "numOfScenes": 3,
+      "numOfKills": 0,
+      "screenTime": "0:08:57",
+      "character": "Alys Karstark"
+    },
+    {
+      "house": "Umber",
+      "season": 7,
+      "numOfScenes": 2,
+      "numOfKills": 0,
+      "screenTime": "0:05:20",
+      "character": "Ned Umber"
+    },
+    {
+      "house": null,
+      "season": 7,
+      "numOfScenes": 7,
+      "numOfKills": 0,
+      "screenTime": "0:08:48",
+      "character": "Maester Wolkan"
+    },
+    {
+      "house": ["Lannister", "Baratheon"],
+      "season": 7,
+      "numOfScenes": 30,
+      "numOfKills": 1,
+      "screenTime": "0:57:06",
+      "character": "Cersei Lannister"
+    },
+    {
+      "house": "Lannister",
+      "season": 7,
+      "numOfScenes": 70,
+      "numOfKills": 1,
+      "screenTime": "1:07:54",
+      "character": "Jaime Lannister"
+    },
+    {
+      "house": null,
+      "season": 7,
+      "numOfScenes": 20,
+      "numOfKills": 0,
+      "screenTime": "0:38:37",
+      "character": "Gregor Clegane"
+    },
+    {
+      "house": null,
+      "season": 7,
+      "numOfScenes": 16,
+      "numOfKills": 0,
+      "screenTime": "0:30:41",
+      "character": "Qyburn"
+    },
+    {
+      "house": "Greyjoy",
+      "season": 7,
+      "numOfScenes": 18,
+      "numOfKills": 2,
+      "screenTime": "0:22:59",
+      "character": "Euron Greyjoy"
+    },
+    {
+      "house": null,
+      "season": 7,
+      "numOfScenes": 18,
+      "numOfKills": 0,
+      "screenTime": "0:29:07",
+      "character": "Samwell Tarly"
+    },
+    {
+      "house": null,
+      "season": 7,
+      "numOfScenes": 51,
+      "numOfKills": 0,
+      "screenTime": "1:00:57",
+      "character": "Sandor Clegane"
+    },
+    {
+      "house": null,
+      "season": 7,
+      "numOfScenes": 25,
+      "numOfKills": 0,
+      "screenTime": "0:28:50",
+      "character": "Thoros of Myr"
+    },
+    {
+      "house": null,
+      "season": 7,
+      "numOfScenes": 44,
+      "numOfKills": 0,
+      "screenTime": "0:41:34",
+      "character": "Beric Dondarrion"
+    },
+    {
+      "house": null,
+      "season": 7,
+      "numOfScenes": 4,
+      "numOfKills": 0,
+      "screenTime": "0:03:57",
+      "character": "Gilly"
+    },
+    {
+      "house": null,
+      "season": 7,
+      "numOfScenes": 4,
+      "numOfKills": 0,
+      "screenTime": "0:03:57",
+      "character": "Baby Sam"
+    },
+    {
+      "house": "Mormont",
+      "season": 7,
+      "numOfScenes": 65,
+      "numOfKills": 0,
+      "screenTime": "1:15:49",
+      "character": "Jorah Mormont"
+    },
+    {
+      "house": "Targaryen",
+      "season": 7,
+      "numOfScenes": 80,
+      "numOfKills": 2,
+      "screenTime": "1:36:13",
+      "character": "Daenerys Targaryen"
+    },
+    {
+      "house": "Lannister",
+      "season": 7,
+      "numOfScenes": 71,
+      "numOfKills": 0,
+      "screenTime": "1:37:29",
+      "character": "Tyrion Lannister"
+    },
+    {
+      "house": null,
+      "season": 7,
+      "numOfScenes": 44,
+      "numOfKills": 0,
+      "screenTime": "1:07:20",
+      "character": "Missandei"
+    },
+    {
+      "house": null,
+      "season": 7,
+      "numOfScenes": 36,
+      "numOfKills": 0,
+      "screenTime": "0:51:12",
+      "character": "Lord Varys"
+    },
+    {
+      "house": null,
+      "season": 7,
+      "numOfScenes": 14,
+      "numOfKills": 0,
+      "screenTime": "0:23:30",
+      "character": "Grey Worm"
+    },
+    {
+      "house": "Targaryen",
+      "season": 7,
+      "numOfScenes": 16,
+      "numOfKills": 0,
+      "screenTime": "0:09:06",
+      "character": "Rhaegal"
+    },
+    {
+      "house": "Targaryen",
+      "season": 7,
+      "numOfScenes": 22,
+      "numOfKills": 0,
+      "screenTime": "0:09:25",
+      "character": "Viserion"
+    },
+    {
+      "house": "Targaryen",
+      "season": 7,
+      "numOfScenes": 39,
+      "numOfKills": 0,
+      "screenTime": "0:21:48",
+      "character": "Drogon"
+    },
+    {
+      "house": null,
+      "season": 7,
+      "numOfScenes": 3,
+      "numOfKills": 0,
+      "screenTime": "0:05:06",
+      "character": "Melisandre"
+    },
+    {
+      "house": null,
+      "season": 7,
+      "numOfScenes": 10,
+      "numOfKills": 0,
+      "screenTime": "0:12:54",
+      "character": "Randyll Tarly"
+    },
+    {
+      "house": null,
+      "season": 7,
+      "numOfScenes": 11,
+      "numOfKills": 0,
+      "screenTime": "0:12:19",
+      "character": "Dickon Tarly"
+    },
+    {
+      "house": "Greyjoy",
+      "season": 7,
+      "numOfScenes": 12,
+      "numOfKills": 0,
+      "screenTime": "0:12:36",
+      "character": "Yara Greyjoy"
+    },
+    {
+      "house": "Greyjoy",
+      "season": 7,
+      "numOfScenes": 33,
+      "numOfKills": 1,
+      "screenTime": "0:42:33",
+      "character": "Theon Greyjoy"
+    },
+    {
+      "house": "Martell",
+      "season": 7,
+      "numOfScenes": 9,
+      "numOfKills": 0,
+      "screenTime": "0:14:07",
+      "character": "Ellaria Sand"
+    },
+    {
+      "house": "Tyrell",
+      "season": 7,
+      "numOfScenes": 4,
+      "numOfKills": 0,
+      "screenTime": "0:10:08",
+      "character": "Olenna Tyrell"
+    },
+    {
+      "house": null,
+      "season": 7,
+      "numOfScenes": 1,
+      "numOfKills": 0,
+      "screenTime": "0:02:36",
+      "character": "Hot Pie"
+    },
+    {
+      "house": "Stark",
+      "season": 7,
+      "numOfScenes": 1,
+      "numOfKills": 0,
+      "screenTime": "0:01:17",
+      "character": "Nymeria"
+    },
+    {
+      "house": "Martell",
+      "season": 7,
+      "numOfScenes": 5,
+      "numOfKills": 0,
+      "screenTime": "0:01:23",
+      "character": "Obara Sand"
+    },
+    {
+      "house": "Martell",
+      "season": 7,
+      "numOfScenes": 10,
+      "numOfKills": 0,
+      "screenTime": "0:09:59",
+      "character": "Tyene Sand"
+    },
+    {
+      "house": "Martell",
+      "season": 7,
+      "numOfScenes": 6,
+      "numOfKills": 0,
+      "screenTime": "0:01:38",
+      "character": "Nymeria Sand"
+    },
+    {
+      "house": null,
+      "season": 7,
+      "numOfScenes": 33,
+      "numOfKills": 0,
+      "screenTime": "0:45:28",
+      "character": "Qhono"
+    },
+    {
+      "house": null,
+      "season": 7,
+      "numOfScenes": 2,
+      "numOfKills": 0,
+      "screenTime": "0:04:13",
+      "character": "Tycho Nestoris"
+    },
+    {
+      "house": null,
+      "season": 7,
+      "numOfScenes": 34,
+      "numOfKills": 0,
+      "screenTime": "0:19:41",
+      "character": "Bronn"
+    },
+    {
+      "house": null,
+      "season": 7,
+      "numOfScenes": 28,
+      "numOfKills": 2,
+      "screenTime": "0:26:39",
+      "character": "Gendry"
+    },
+    {
+      "house": "Stark",
+      "season": 7,
+      "numOfScenes": 3,
+      "numOfKills": 0,
+      "screenTime": "0:00:57",
+      "character": "Benjen Stark"
+    },
+    {
+      "house": "Stark",
+      "season": 7,
+      "numOfScenes": 2,
+      "numOfKills": 0,
+      "screenTime": "0:00:50",
+      "character": "Lyanna Stark"
+    },
+    {
+      "house": "Targaryen",
+      "season": 7,
+      "numOfScenes": 1,
+      "numOfKills": 0,
+      "screenTime": "0:00:30",
+      "character": "Rhaegar Targaryen"
+    },
+    {
+      "house": null,
+      "season": 7,
+      "numOfScenes": 1,
+      "numOfKills": 0,
+      "screenTime": "0:00:30",
+      "character": "High Septon"
+    },
+    {
+      "house": "Stark",
+      "season": 7,
+      "numOfScenes": 1,
+      "numOfKills": 0,
+      "screenTime": "0:00:20",
+      "character": "Young Ned Stark"
+    }
+  ],
+  [
+    {
+      "house": "Stark",
+      "season": 8,
+      "numOfScenes": 57,
+      "numOfKills": 3,
+      "screenTime": "0:41:20",
+      "character": "Arya Stark"
+    },
+    {
+      "house": "Stark",
+      "season": 8,
+      "numOfScenes": 105,
+      "numOfKills": 0,
+      "screenTime": "1:09:42",
+      "character": "Jon Snow"
+    },
+    {
+      "house": "Targaryen",
+      "season": 8,
+      "numOfScenes": 115,
+      "numOfKills": 0,
+      "screenTime": "1:13:03",
+      "character": "Daenerys Targaryen"
+    },
+    {
+      "house": null,
+      "season": 8,
+      "numOfScenes": 7,
+      "numOfKills": 0,
+      "screenTime": "0:06:45",
+      "character": "Qhono"
+    },
+    {
+      "house": null,
+      "season": 8,
+      "numOfScenes": 41,
+      "numOfKills": 0,
+      "screenTime": "0:22:15",
+      "character": "Sandor Clegane"
+    },
+    {
+      "house": null,
+      "season": 8,
+      "numOfScenes": 35,
+      "numOfKills": 0,
+      "screenTime": "0:21:10",
+      "character": "Gendry"
+    },
+    {
+      "house": "Lannister",
+      "season": 8,
+      "numOfScenes": 98,
+      "numOfKills": 0,
+      "screenTime": "1:16:55",
+      "character": "Tyrion Lannister"
+    },
+    {
+      "house": null,
+      "season": 8,
+      "numOfScenes": 54,
+      "numOfKills": 0,
+      "screenTime": "0:46:51",
+      "character": "Lord Varys"
+    },
+    {
+      "house": null,
+      "season": 8,
+      "numOfScenes": 39,
+      "numOfKills": 0,
+      "screenTime": "0:33:58",
+      "character": "Missandei"
+    },
+    {
+      "house": null,
+      "season": 8,
+      "numOfScenes": 55,
+      "numOfKills": 0,
+      "screenTime": "0:39:48",
+      "character": "Grey Worm"
+    },
+    {
+      "house": "Targaryen",
+      "season": 8,
+      "numOfScenes": 49,
+      "numOfKills": 0,
+      "screenTime": "0:16:53",
+      "character": "Drogon"
+    },
+    {
+      "house": "Targaryen",
+      "season": 8,
+      "numOfScenes": 36,
+      "numOfKills": 0,
+      "screenTime": "0:11:14",
+      "character": "Rhaegal"
+    },
+    {
+      "house": "Stark",
+      "season": 8,
+      "numOfScenes": 58,
+      "numOfKills": 0,
+      "screenTime": "0:49:02",
+      "character": "Sansa Stark"
+    },
+    {
+      "house": "Stark",
+      "season": 8,
+      "numOfScenes": 54,
+      "numOfKills": 0,
+      "screenTime": "0:37:47",
+      "character": "Bran Stark"
+    },
+    {
+      "house": null,
+      "season": 8,
+      "numOfScenes": 20,
+      "numOfKills": 0,
+      "screenTime": "0:20:23",
+      "character": "Yohn Royce"
+    },
+    {
+      "house": "Mormont",
+      "season": 8,
+      "numOfScenes": 25,
+      "numOfKills": 1,
+      "screenTime": "0:16:24",
+      "character": "Lyanna Mormont"
+    },
+    {
+      "house": "Umber",
+      "season": 8,
+      "numOfScenes": 5,
+      "numOfKills": 0,
+      "screenTime": "0:03:13",
+      "character": "Ned Umber"
+    },
+    {
+      "house": null,
+      "season": 8,
+      "numOfScenes": 3,
+      "numOfKills": 0,
+      "screenTime": "0:01:31",
+      "character": "Robett Glover"
+    },
+    {
+      "house": null,
+      "season": 8,
+      "numOfScenes": 36,
+      "numOfKills": 0,
+      "screenTime": "0:22:48",
+      "character": "Podrick Payne"
+    },
+    {
+      "house": null,
+      "season": 8,
+      "numOfScenes": 57,
+      "numOfKills": 0,
+      "screenTime": "0:46:10",
+      "character": "Brienne of Tarth"
+    },
+    {
+      "house": "Mormont",
+      "season": 8,
+      "numOfScenes": 47,
+      "numOfKills": 0,
+      "screenTime": "0:29:00",
+      "character": "Jorah Mormont"
+    },
+    {
+      "house": null,
+      "season": 8,
+      "numOfScenes": 57,
+      "numOfKills": 0,
+      "screenTime": "0:37:40",
+      "character": "Davos Seaworth"
+    },
+    {
+      "house": null,
+      "season": 8,
+      "numOfScenes": 6,
+      "numOfKills": 0,
+      "screenTime": "0:02:11",
+      "character": "Maester Wolkan"
+    },
+    {
+      "house": null,
+      "season": 8,
+      "numOfScenes": 18,
+      "numOfKills": 0,
+      "screenTime": "0:13:05",
+      "character": "Qyburn"
+    },
+    {
+      "house": ["Lannister", "Baratheon"],
+      "season": 8,
+      "numOfScenes": 16,
+      "numOfKills": 0,
+      "screenTime": "0:13:55",
+      "character": "Cersei Lannister"
+    },
+    {
+      "house": null,
+      "season": 8,
+      "numOfScenes": 14,
+      "numOfKills": 1,
+      "screenTime": "0:11:04",
+      "character": "Gregor Clegane"
+    },
+    {
+      "house": "Greyjoy",
+      "season": 8,
+      "numOfScenes": 20,
+      "numOfKills": 1,
+      "screenTime": "0:15:53",
+      "character": "Euron Greyjoy"
+    },
+    {
+      "house": null,
+      "season": 8,
+      "numOfScenes": 2,
+      "numOfKills": 0,
+      "screenTime": "0:01:11",
+      "character": "Harry Strickland"
+    },
+    {
+      "house": "Greyjoy",
+      "season": 8,
+      "numOfScenes": 4,
+      "numOfKills": 0,
+      "screenTime": "0:03:19",
+      "character": "Yara Greyjoy"
+    },
+    {
+      "house": null,
+      "season": 8,
+      "numOfScenes": 6,
+      "numOfKills": 0,
+      "screenTime": "0:05:54",
+      "character": "Bronn"
+    },
+    {
+      "house": null,
+      "season": 8,
+      "numOfScenes": 2,
+      "numOfKills": 0,
+      "screenTime": "0:01:14",
+      "character": "Marei"
+    },
+    {
+      "house": "Greyjoy",
+      "season": 8,
+      "numOfScenes": 21,
+      "numOfKills": 0,
+      "screenTime": "0:14:48",
+      "character": "Theon Greyjoy"
+    },
+    {
+      "house": null,
+      "season": 8,
+      "numOfScenes": 10,
+      "numOfKills": 0,
+      "screenTime": "0:08:33",
+      "character": "Alys Karstark"
+    },
+    {
+      "house": null,
+      "season": 8,
+      "numOfScenes": 50,
+      "numOfKills": 0,
+      "screenTime": "0:31:10",
+      "character": "Samwell Tarly"
+    },
+    {
+      "house": null,
+      "season": 8,
+      "numOfScenes": 49,
+      "numOfKills": 0,
+      "screenTime": "0:29:01",
+      "character": "Tormund Giantsbane"
+    },
+    {
+      "house": null,
+      "season": 8,
+      "numOfScenes": 27,
+      "numOfKills": 0,
+      "screenTime": "0:18:24",
+      "character": "Beric Dondarrion"
+    },
+    {
+      "house": null,
+      "season": 8,
+      "numOfScenes": 17,
+      "numOfKills": 0,
+      "screenTime": "0:07:05",
+      "character": "Eddison Tollett"
+    },
+    {
+      "house": "Lannister",
+      "season": 8,
+      "numOfScenes": 68,
+      "numOfKills": 0,
+      "screenTime": "0:49:51",
+      "character": "Jaime Lannister"
+    },
+    {
+      "house": null,
+      "season": 8,
+      "numOfScenes": 16,
+      "numOfKills": 0,
+      "screenTime": "0:12:16",
+      "character": "Gilly"
+    },
+    {
+      "house": "Stark",
+      "season": 8,
+      "numOfScenes": 13,
+      "numOfKills": 0,
+      "screenTime": "0:07:32",
+      "character": "Ghost"
+    },
+    {
+      "house": null,
+      "season": 8,
+      "numOfScenes": 5,
+      "numOfKills": 0,
+      "screenTime": "0:02:18",
+      "character": "Baby Sam"
+    },
+    {
+      "house": null,
+      "season": 8,
+      "numOfScenes": 8,
+      "numOfKills": 0,
+      "screenTime": "0:04:07",
+      "character": "White Walker"
+    },
+    {
+      "house": null,
+      "season": 8,
+      "numOfScenes": 22,
+      "numOfKills": 0,
+      "screenTime": "0:08:23",
+      "character": "Melisandre"
+    },
+    {
+      "house": "Targaryen",
+      "season": 8,
+      "numOfScenes": 17,
+      "numOfKills": 0,
+      "screenTime": "0:04:33",
+      "character": "Viserion"
+    },
+    {
+      "house": null,
+      "season": 8,
+      "numOfScenes": 22,
+      "numOfKills": 2,
+      "screenTime": "0:10:32",
+      "character": "The Night King"
+    }
+  ]
+]
