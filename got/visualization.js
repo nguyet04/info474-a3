@@ -1,6 +1,5 @@
 // Assignment 3
 
-
 let datasets = {}
 let dataset;
 let filteredData;
@@ -60,9 +59,9 @@ d3.json("data/characters.json", (error, characterData) => {
 })
 
 // creating the main graph
-var margin = { top: 25, bottom: 10, left: 25, right: 25 },
-width = 1400 - margin.left - margin.right,
-height = 400 - margin.top - margin.bottom;
+var margin = { top: 50, bottom: 50, left: 30, right: 30 },
+width = 1200 - margin.left - margin.right,
+height = 600 - margin.top - margin.bottom;
 
 var svg = d3
 .select("main")
@@ -83,6 +82,28 @@ var y = d3.scaleLinear().range([height - margin.bottom, margin.top]);
 var yAxis = d3.axisLeft().scale(y);
 
 var xAxis = d3.axisBottom().scale(x);
+
+
+var tooltip = d3
+  .select("body")
+  .append("div")
+  .attr("class", "tooltip")
+  .style("opacity", 0);
+
+xLabel = svg.append("text")             
+  .attr("transform",
+        "translate(" + (width/2) + " ," + 
+                        (height) + ")")
+  .style("text-anchor", "middle")
+  .text(currentX);
+
+yLabel = svg.append("text")
+  .attr("transform", "rotate(-90)")
+  .attr("y", 0 - margin.left)
+  .attr("x",0 - (height / 2))
+  .attr("dy", "1em")
+  .style("text-anchor", "middle")
+  .text(generateYLabel(currentY));      
 
 svg
 .append("g")
@@ -220,11 +241,28 @@ function update() {
 
   bar.exit().remove();
 
+
   bar
     .enter()
     .append("rect")
     .attr("class", "bar")
     .attr("fill", "#B78A0E")
+    .on("mouseover", d => {
+      tooltip
+        .transition()
+        .duration(200)
+        .style("opacity", 0.9);
+      tooltip
+        .html(generateTooltipText(d))
+        .style("left", d3.event.pageX + 5 + "px")
+        .style("top", d3.event.pageY - 28 + "px");
+    })
+    .on("mouseout", () => {
+      tooltip
+        .transition()
+        .duration(500)
+        .style("opacity", 0);
+    })
     .merge(bar)
     .transition()
     .duration(1000)
@@ -237,7 +275,14 @@ function update() {
     })
     .attr("height", function(d) {
       return y(0) - y(d[currentY]);
-    });
+    })
+
+
+
+    xLabel.text(currentX)
+
+    yLabel.text(generateYLabel(currentY))
+
 }
 
 
@@ -337,4 +382,48 @@ function characterToHouse(dataset) {
     result.push(nextObj)
   }
   return result 
+}
+
+
+//tooltip
+
+function generateTooltipText(obj) {
+  let text = ""
+  if (obj.location) {
+    text += `<p><b>${obj.location}</b></p>`
+  }
+  if (obj.character) {
+    text += `<p><b>${obj.character}</b></p>`
+  }
+  if (!obj.character && obj.house) {
+    text += `<p><b>${obj.house}</b></p>`
+  }
+  if (obj.season) {
+    text += `<p>Season ${obj.season}</p>`
+  }
+  if (obj.numOfScenes) {
+    text += `<p>${obj.numOfScenes} scenes</p>`
+  }
+  if (obj.numOfDeaths) {
+    text += `<p>${obj.numOfDeaths} deaths</p>`
+  }
+  if (obj.numOfKills) {
+    text += `<p>${obj.numOfKills} kills</p>`
+  }
+  if (obj.screenTime) {
+    text += `<p>${obj.screenTime} minutes</p>`
+  }
+  return text
+}
+
+function generateYLabel(currentY) {
+  if (currentY === "numOfScenes") {
+    return "# of scenes"
+  } else if (currentY === "numOfDeaths") {
+    return "# of deaths"
+  } else if (currentY === "numOfKills") {
+    return "# of kills"
+  } else if (currentY === "screenTime") {
+    return "minutes of screen time"
+  }
 }

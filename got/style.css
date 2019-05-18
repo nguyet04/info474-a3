@@ -1,11 +1,10 @@
-
 #example-container {
   margin-bottom: 100px;
 }
 
 img {
-  width:100%;
-  max-width:600px;
+  width: 100%;
+  max-width: 600px;
 }
 
 #label-logo {
@@ -18,10 +17,10 @@ img {
   font-size: 20px;
 }
 
-
 main {
   text-align: center;
   font-family: "Courier New", Courier, monospace;
+  margin: 50px 0;
 }
 
 select {
@@ -30,4 +29,23 @@ select {
   border-top: 10px;
   border-left: 10px;
   border-right: 10px;
+}
+
+body {
+  font-family: "Courier New", Courier, monospace;
+  width: 1200px;
+  margin: auto;
+}
+
+.tooltip {
+	position: absolute;
+  pointer-events: none;	
+  border-radius: 10px;
+  border: 1px solid black;
+  background-color: #F8F8F8;
+  padding: 10px 20px;
+}
+
+.tooltip p {
+  margin: 5px 0;
 }
